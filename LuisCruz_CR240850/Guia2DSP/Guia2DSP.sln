@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guia2DSP", "Guia2DSP.csproj", "{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97C92B9-8D2F-4B08-9E2E-723E1B518DEA}
+	EndGlobalSection
+EndGlobal

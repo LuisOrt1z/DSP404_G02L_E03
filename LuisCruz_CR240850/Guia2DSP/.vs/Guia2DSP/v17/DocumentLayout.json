@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\tabla_aritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:tabla_aritmetica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\numerosenteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:numerosenteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\numerosenteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:numerosenteros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\conversormonedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:conversormonedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\estructurawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:estructurawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\estructurawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:estructurawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|c:\\users\\greni\\source\\repos\\guia2dsp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC5AA38A-AEFC-4734-AF58-EF09BF02FC37}|Guia2DSP.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tabla_aritmetica.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Tabla_aritmetica.cs",
+              "RelativeDocumentMoniker": "Tabla_aritmetica.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Tabla_aritmetica.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tabla_aritmetica.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:19:26.234Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversorMonedas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\ConversorMonedas.cs",
+              "RelativeDocumentMoniker": "ConversorMonedas.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\ConversorMonedas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConversorMonedas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:09:58.413Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumerosEnteros.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\NumerosEnteros.cs",
+              "RelativeDocumentMoniker": "NumerosEnteros.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\NumerosEnteros.cs",
+              "RelativeToolTip": "NumerosEnteros.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:37:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumerosEnteros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\NumerosEnteros.cs",
+              "RelativeDocumentMoniker": "NumerosEnteros.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\NumerosEnteros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NumerosEnteros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:02:20.592Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Fibonacci.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Fibonacci.cs",
+              "RelativeToolTip": "Fibonacci.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAD4vxwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:57:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fibonacci.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Fibonacci.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Fibonacci.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Fibonacci.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:51:11.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:54:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:45:32.828Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstructuraWhile.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\EstructuraWhile.cs",
+              "RelativeDocumentMoniker": "EstructuraWhile.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\EstructuraWhile.cs",
+              "RelativeToolTip": "EstructuraWhile.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:23:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstructuraWhile.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\EstructuraWhile.cs",
+              "RelativeDocumentMoniker": "EstructuraWhile.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\EstructuraWhile.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EstructuraWhile.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:41:00.292Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:30:05.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:16:39.594Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\greni\\source\\repos\\Guia2DSP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:54:54.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
