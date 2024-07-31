@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\bin\Debug\ejerciciopractico2.exe.config
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\bin\Debug\ejerciciopractico2.exe
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\bin\Debug\ejerciciopractico2.pdb
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.Form1.resources
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.Properties.Resources.resources
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.exe
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico2\ejerciciopractico2\obj\Debug\ejerciciopractico2.pdb

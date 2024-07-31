@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\bin\Debug\ejerciciopractico1.exe.config
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\bin\Debug\ejerciciopractico1.exe
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\bin\Debug\ejerciciopractico1.pdb
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.frmfibonacci.resources
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.Properties.Resources.resources
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.exe
+C:\Users\dell\Desktop\DSP 02L\guia2\ejerciciopractico1\ejerciciopractico1\obj\Debug\ejerciciopractico1.pdb
