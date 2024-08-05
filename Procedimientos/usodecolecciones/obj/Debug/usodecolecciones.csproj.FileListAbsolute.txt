@@ -1,0 +1,10 @@
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\bin\Debug\usodecolecciones.exe.config
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\bin\Debug\usodecolecciones.exe
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\bin\Debug\usodecolecciones.pdb
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.Form1.resources
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.Properties.Resources.resources
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.exe
+C:\Users\Luis\Desktop\DSP 02L\guia3\usodecolecciones\obj\Debug\usodecolecciones.pdb
