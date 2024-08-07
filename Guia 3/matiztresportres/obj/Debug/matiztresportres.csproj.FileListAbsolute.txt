@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.Form1.resources
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.Properties.Resources.resources
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\bin\Debug\matiztresportres.exe.config
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\bin\Debug\matiztresportres.exe
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\bin\Debug\matiztresportres.pdb
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.exe
+C:\Users\usuario\Desktop\OH242206 DSP02L\guia3\matiztresportres\obj\Debug\matiztresportres.pdb
