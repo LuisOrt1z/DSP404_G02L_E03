@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\",
+  "WorkspaceRootPath": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814_Ejercicio1\\Ejercicio1\\Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\emerson gudiel\\documents\\github\\dsp404_g02l_e03\\cr240850_gm171814\\ejercicio1\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\emerson gudiel\\documents\\github\\dsp404_g02l_e03\\cr240850_gm171814_ejercicio1\\ejercicio1\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\emerson gudiel\\documents\\github\\dsp404_g02l_e03\\cr240850_gm171814_ejercicio1\\ejercicio1\\ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,11 +26,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814_Ejercicio1\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814_Ejercicio1\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAMzMzMzMLwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:51:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814_Ejercicio1\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Emerson Gudiel\\Documents\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814_Ejercicio1\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T04:48:17.599Z",
