@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\greni\\onedrive\\documentos\\github\\dsp404_g02l_e03\\cr240850_gm171814\\ejercicio1\\ejercicio1\\ejercicio1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\greni\\onedrive\\documentos\\github\\dsp404_g02l_e03\\cr240850_gm171814\\ejercicio1\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\greni\\onedrive\\documentos\\github\\dsp404_g02l_e03\\cr240850_gm171814\\ejercicio1\\ejercicio1\\ejercicio1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6513E7-1DCE-4CCF-97E2-2821C5D11443}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:40:33.419Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:39:46.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Login.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Login.cs",
+              "ToolTip": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:38:42.908Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\greni\\OneDrive\\Documentos\\GitHub\\DSP404_G02L_E03\\CR240850_GM171814\\Ejercicio1\\Ejercicio1\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:10:46.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
