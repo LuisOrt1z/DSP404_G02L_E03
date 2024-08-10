@@ -1,0 +1,10 @@
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\bin\Debug\Problema2.exe.config
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\bin\Debug\Problema2.exe
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\bin\Debug\Problema2.pdb
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.Form1.resources
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.Properties.Resources.resources
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.exe
+C:\Users\Fernando Anzora\source\repos\Guia03 - Fernando Anzora\Discucion de resultados\Problema2\Problema2\obj\Debug\Problema2.pdb
