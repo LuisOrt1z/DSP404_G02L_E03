@@ -1,0 +1,14 @@
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.frmFactorial.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Properties.Resources.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.frmCesar.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.frmReves.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Procedimiento\Procedimientos\Procedimientos\obj\Debug\Procedimientos.frmULAM.resources
