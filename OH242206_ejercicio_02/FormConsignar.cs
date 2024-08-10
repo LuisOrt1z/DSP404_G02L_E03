@@ -32,6 +32,23 @@ namespace ejercicio_2
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
+
+            if (string.IsNullOrWhiteSpace(txtCantidadConsigacion.Text))
+            {
+                MessageBox.Show("ingrese una cantidad valida", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            if (!int.TryParse(txtCantidadConsigacion.Text, out int cantidad))
+            {
+                MessageBox.Show("ingrese una cantidad válida", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+
+            }
+            else if (cantidad < 0)
+            {
+                MessageBox.Show("no se pueden ingresar valores negativos", "ADVERTENCIA", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return;
+            }
             valorEntrada = txtCantidadConsigacion.Text;
             this.DialogResult = DialogResult.OK;
             this.Close();

@@ -14,8 +14,8 @@ namespace ejercicio_2
     public partial class Form1 : Form
     {
         private string[,] cuentas = new string[3, 2]{
-            { "1000001", "400" },
-            { "1000002", "200" },
+            { "10", "400" },
+            { "20", "200" },
             { "1000004", "500" }
     };
         bool cuentaHallada = false;
