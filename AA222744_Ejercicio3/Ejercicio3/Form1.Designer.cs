@@ -38,14 +38,14 @@
             this.btnDesmarcar = new System.Windows.Forms.Button();
             this.lstCompletadas = new System.Windows.Forms.ListBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.cmbFiltro = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.btnCompletada = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.lstTareas = new System.Windows.Forms.ListBox();
             this.btnSalir = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
-            this.cmbFiltro = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -120,6 +120,7 @@
             // 
             // btnDesmarcar
             // 
+            this.btnDesmarcar.Enabled = false;
             this.btnDesmarcar.Location = new System.Drawing.Point(36, 164);
             this.btnDesmarcar.Name = "btnDesmarcar";
             this.btnDesmarcar.Size = new System.Drawing.Size(220, 32);
@@ -152,8 +153,34 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Lista de tareas";
             // 
+            // cmbFiltro
+            // 
+            this.cmbFiltro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbFiltro.FormattingEnabled = true;
+            this.cmbFiltro.Items.AddRange(new object[] {
+            "Ninguno",
+            "Nombre(A - Z)",
+            "Nombre(Z- A)",
+            "Fecha(Mas cercanas)",
+            "Fecha(Mas leganas)"});
+            this.cmbFiltro.Location = new System.Drawing.Point(215, 25);
+            this.cmbFiltro.Name = "cmbFiltro";
+            this.cmbFiltro.Size = new System.Drawing.Size(185, 24);
+            this.cmbFiltro.TabIndex = 10;
+            this.cmbFiltro.SelectedIndexChanged += new System.EventHandler(this.cmbFiltro_SelectedIndexChanged);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(146, 28);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(63, 16);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "Filtrar por";
+            // 
             // btnCompletada
             // 
+            this.btnCompletada.Enabled = false;
             this.btnCompletada.Location = new System.Drawing.Point(215, 384);
             this.btnCompletada.Name = "btnCompletada";
             this.btnCompletada.Size = new System.Drawing.Size(185, 32);
@@ -163,6 +190,7 @@
             // 
             // btnEditar
             // 
+            this.btnEditar.Enabled = false;
             this.btnEditar.Location = new System.Drawing.Point(112, 384);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(97, 32);
@@ -172,6 +200,7 @@
             // 
             // btnEliminar
             // 
+            this.btnEliminar.Enabled = false;
             this.btnEliminar.Location = new System.Drawing.Point(17, 384);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(89, 32);
@@ -205,31 +234,7 @@
             this.btnSalir.TabIndex = 0;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(146, 28);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(63, 16);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Filtrar por";
-            // 
-            // cmbFiltro
-            // 
-            this.cmbFiltro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbFiltro.FormattingEnabled = true;
-            this.cmbFiltro.Items.AddRange(new object[] {
-            "Ninguno",
-            "Nombre(A - Z)",
-            "Nombre(Z- A)",
-            "Fecha(Mas cercanas)",
-            "Fecha(Mas leganas)"});
-            this.cmbFiltro.Location = new System.Drawing.Point(215, 25);
-            this.cmbFiltro.Name = "cmbFiltro";
-            this.cmbFiltro.Size = new System.Drawing.Size(185, 24);
-            this.cmbFiltro.TabIndex = 10;
-            this.cmbFiltro.SelectedIndexChanged += new System.EventHandler(this.cmbFiltro_SelectedIndexChanged);
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // Form1
             // 

@@ -46,7 +46,7 @@ namespace Ejercicio3
                     {
                         foreach (Tarea Lista in Pendientes)
                         {
-                            lstTareas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                            lstTareas.Items.Add(Lista.Nombre + " | " + Lista.Fecha.ToString("dddd, d 'de' MMMM 'de' yyyy"));
                         }
                     }
                     break;
@@ -56,7 +56,7 @@ namespace Ejercicio3
                     {
                         foreach (Tarea Lista in AlfabeticoA_Z)
                         {
-                            lstTareas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                            lstTareas.Items.Add(Lista.Nombre + " | " + Lista.Fecha.ToString("dddd, d 'de' MMMM 'de' yyyy"));
                         }
                     }
                     break;
@@ -66,7 +66,7 @@ namespace Ejercicio3
                     {
                         foreach (Tarea Lista in AlfabeticoZ_A)
                         {
-                            lstTareas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                            lstTareas.Items.Add(Lista.Nombre + " | " + Lista.Fecha.ToString("dddd, d 'de' MMMM 'de' yyyy"));
                         }
                     }
                     break;
@@ -76,7 +76,7 @@ namespace Ejercicio3
                     {
                         foreach (Tarea Lista in FechaCercana)
                         {
-                            lstTareas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                            lstTareas.Items.Add(Lista.Nombre + " | " + Lista.Fecha.ToString("dddd, d 'de' MMMM 'de' yyyy"));
                         }
                     }
                     break;
@@ -86,7 +86,7 @@ namespace Ejercicio3
                     {
                         foreach (Tarea Lista in FechaLegana)
                         {
-                            lstTareas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                            lstTareas.Items.Add(Lista.Nombre + " | " + Lista.Fecha.ToString("dddd, d 'de' MMMM 'de' yyyy"));
                         }
                     }
                     break;
@@ -96,7 +96,7 @@ namespace Ejercicio3
             {
                 foreach (Tarea Lista in Completas)
                 {
-                    lstCompletadas.Items.Add(Lista.Nombre + " <|> " + Lista.Fecha);
+                    lstCompletadas.Items.Add(Lista.Nombre + " | " + Lista.Fecha);
                 }
             }
 
@@ -105,8 +105,24 @@ namespace Ejercicio3
         }
         private void btnAgregar_Click(object sender, EventArgs e)
         {
+            string nombre = txtNombre.Text;
+            DateTime fecha = dtpFecha.Value;
+            DateTime fechaActual = DateTime.Now.Date;
+            if (nombre == "")
+            {
+                MessageBox.Show("La tarea tiene que tener un nombre", "Informacion", MessageBoxButtons.OK,MessageBoxIcon.Information);
+                txtNombre.Clear();
+                txtNombre.Focus();
+                return;
+            }
+            if (fecha < fechaActual)
+            {
+                MessageBox.Show("La fecha ingresada no puede ser anterior a la fecha actual.", "Fecha inválida", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
             Tarea NuevaTarea = new Tarea();
-            NuevaTarea.Datos(txtNombre.Text,dtpFecha.Value);
+            NuevaTarea.Datos(nombre, fecha);
             ListaTareas.Add(NuevaTarea);
             ActualizarListas(TipoFiltro());
 
@@ -133,6 +149,11 @@ namespace Ejercicio3
                     return 4;
             }
             return 0;
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
