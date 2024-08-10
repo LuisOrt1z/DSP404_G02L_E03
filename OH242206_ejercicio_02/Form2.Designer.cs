@@ -33,6 +33,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.lblnumCuenta = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label3 = new System.Windows.Forms.Label();
             this.rbtSalir = new System.Windows.Forms.RadioButton();
@@ -41,7 +42,6 @@
             this.rbtRetiro = new System.Windows.Forms.RadioButton();
             this.rbtConsulta = new System.Windows.Forms.RadioButton();
             this.label2 = new System.Windows.Forms.Label();
-            this.lblnumCuenta = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -88,6 +88,16 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Menu";
             // 
+            // lblnumCuenta
+            // 
+            this.lblnumCuenta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.lblnumCuenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.lblnumCuenta.Location = new System.Drawing.Point(21, 51);
+            this.lblnumCuenta.Name = "lblnumCuenta";
+            this.lblnumCuenta.Size = new System.Drawing.Size(144, 23);
+            this.lblnumCuenta.TabIndex = 3;
+            this.lblnumCuenta.Click += new System.EventHandler(this.label4_Click);
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.label3);
@@ -115,7 +125,7 @@
             // 
             this.rbtSalir.AutoSize = true;
             this.rbtSalir.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.rbtSalir.Location = new System.Drawing.Point(370, 103);
+            this.rbtSalir.Location = new System.Drawing.Point(399, 138);
             this.rbtSalir.Name = "rbtSalir";
             this.rbtSalir.Size = new System.Drawing.Size(54, 21);
             this.rbtSalir.TabIndex = 4;
@@ -127,7 +137,7 @@
             // 
             this.rbtTransferencia.AutoSize = true;
             this.rbtTransferencia.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.rbtTransferencia.Location = new System.Drawing.Point(205, 140);
+            this.rbtTransferencia.Location = new System.Drawing.Point(205, 178);
             this.rbtTransferencia.Name = "rbtTransferencia";
             this.rbtTransferencia.Size = new System.Drawing.Size(121, 21);
             this.rbtTransferencia.TabIndex = 3;
@@ -139,13 +149,14 @@
             // 
             this.rbtConsignacion.AutoSize = true;
             this.rbtConsignacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.rbtConsignacion.Location = new System.Drawing.Point(15, 140);
+            this.rbtConsignacion.Location = new System.Drawing.Point(15, 178);
             this.rbtConsignacion.Name = "rbtConsignacion";
             this.rbtConsignacion.Size = new System.Drawing.Size(126, 21);
             this.rbtConsignacion.TabIndex = 2;
             this.rbtConsignacion.TabStop = true;
             this.rbtConsignacion.Text = "Consignaciones";
             this.rbtConsignacion.UseVisualStyleBackColor = true;
+            this.rbtConsignacion.CheckedChanged += new System.EventHandler(this.rbtConsignacion_CheckedChanged);
             // 
             // rbtRetiro
             // 
@@ -158,6 +169,7 @@
             this.rbtRetiro.TabStop = true;
             this.rbtRetiro.Text = "Retiro de fondos";
             this.rbtRetiro.UseVisualStyleBackColor = true;
+            this.rbtRetiro.CheckedChanged += new System.EventHandler(this.rbtRetiro_CheckedChanged);
             // 
             // rbtConsulta
             // 
@@ -170,7 +182,7 @@
             this.rbtConsulta.TabStop = true;
             this.rbtConsulta.Text = "Consula de saldo";
             this.rbtConsulta.UseVisualStyleBackColor = true;
-            this.rbtConsulta.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            this.rbtConsulta.CheckedChanged += new System.EventHandler(this.rbtConsulta_CheckedChanged);
             // 
             // label2
             // 
@@ -180,16 +192,6 @@
             this.label2.Size = new System.Drawing.Size(144, 23);
             this.label2.TabIndex = 0;
             this.label2.Text = "Numero de cuenta:";
-            // 
-            // lblnumCuenta
-            // 
-            this.lblnumCuenta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.lblnumCuenta.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.lblnumCuenta.Location = new System.Drawing.Point(21, 51);
-            this.lblnumCuenta.Name = "lblnumCuenta";
-            this.lblnumCuenta.Size = new System.Drawing.Size(144, 23);
-            this.lblnumCuenta.TabIndex = 3;
-            this.lblnumCuenta.Click += new System.EventHandler(this.label4_Click);
             // 
             // Form2
             // 

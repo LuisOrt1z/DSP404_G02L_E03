@@ -38,7 +38,7 @@ namespace ejercicio_2
                         cuentaSeleccionada = i;
                         MessageBox.Show("ha ingresado con exito, bienvenido!!", "INGRESO EXITOSO", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         
-                        Form2 form2 = new Form2(numeroDeCuenta);
+                        Form2 form2 = new Form2(numeroDeCuenta,cuentas,cuentaSeleccionada);
                         form2.Show();
                         this.Hide();
                     }

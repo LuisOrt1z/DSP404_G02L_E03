@@ -9,3 +9,6 @@ D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio 2.csproj.Gener
 D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio 2.csproj.CoreCompileInputs.cache
 D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio 2.exe
 D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio 2.pdb
+D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio_2.Form3.resources
+D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio_2.InputForm.resources
+D:\Luis\Desktop\DSP 02L\desafio 1\ejercicio 2\obj\Debug\ejercicio_2.FormConsignar.resources
