@@ -18,3 +18,14 @@ C:\Users\Emerson Gudiel\Documents\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejerc
 C:\Users\Emerson Gudiel\Documents\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\Emerson Gudiel\Documents\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\Emerson Gudiel\Documents\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Dashboard.resources
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\greni\OneDrive\Documentos\GitHub\DSP404_G02L_E03\CR240850_GM171814_Ejercicio1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
