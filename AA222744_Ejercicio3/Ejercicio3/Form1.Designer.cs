@@ -127,6 +127,7 @@
             this.btnDesmarcar.TabIndex = 1;
             this.btnDesmarcar.Text = "Desmarcar como completada";
             this.btnDesmarcar.UseVisualStyleBackColor = true;
+            this.btnDesmarcar.Click += new System.EventHandler(this.btnDesmarcar_Click);
             // 
             // lstCompletadas
             // 
@@ -136,6 +137,7 @@
             this.lstCompletadas.Name = "lstCompletadas";
             this.lstCompletadas.Size = new System.Drawing.Size(276, 132);
             this.lstCompletadas.TabIndex = 0;
+            this.lstCompletadas.SelectedIndexChanged += new System.EventHandler(this.lstCompletadas_SelectedIndexChanged);
             // 
             // groupBox3
             // 
@@ -187,6 +189,7 @@
             this.btnCompletada.TabIndex = 8;
             this.btnCompletada.Text = "Marcar como completada";
             this.btnCompletada.UseVisualStyleBackColor = true;
+            this.btnCompletada.Click += new System.EventHandler(this.btnCompletada_Click);
             // 
             // btnEditar
             // 
@@ -197,6 +200,7 @@
             this.btnEditar.TabIndex = 7;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnEliminar
             // 
@@ -207,6 +211,7 @@
             this.btnEliminar.TabIndex = 6;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // label3
             // 
@@ -225,6 +230,7 @@
             this.lstTareas.Name = "lstTareas";
             this.lstTareas.Size = new System.Drawing.Size(383, 292);
             this.lstTareas.TabIndex = 0;
+            this.lstTareas.SelectedIndexChanged += new System.EventHandler(this.lstTareas_SelectedIndexChanged);
             // 
             // btnSalir
             // 

@@ -18,3 +18,4 @@ C:\Users\Fernando Anzora\Documents\GitHub\DSP404_G02L_E03\AA222744_Ejercicio3\Ej
 C:\Users\Fernando Anzora\Documents\GitHub\DSP404_G02L_E03\AA222744_Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
 C:\Users\Fernando Anzora\Documents\GitHub\DSP404_G02L_E03\AA222744_Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
 C:\Users\Fernando Anzora\Documents\GitHub\DSP404_G02L_E03\AA222744_Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Fernando Anzora\Documents\GitHub\DSP404_G02L_E03\AA222744_Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form2.resources
