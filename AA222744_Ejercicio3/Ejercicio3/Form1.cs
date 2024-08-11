@@ -319,6 +319,10 @@ namespace Ejercicio3
         }
         private void GuardarTareas(string archivo)
         {
+            if (File.Exists(archivo))
+            {
+                File.Delete(archivo);
+            }
             StreamWriter writer = new StreamWriter(archivo, true);
             foreach (Tarea tarea in ListaTareas)
             {
