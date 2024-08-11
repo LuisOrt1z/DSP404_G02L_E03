@@ -76,6 +76,17 @@ namespace Ejercicio1
             {
                 chart1.Titles.Clear();
                 chart1.Titles.Add("Programas de entretenimiento");
+                chart1.Series.Clear();
+
+                String[] nombre = {"GAME OF THRONES", "CHERNOBYL", "THE MARVELOUS MRS. MAISEL" };
+                int[] porcentaje = {40, 34, 26};
+
+                for (int i = 0; i < nombre.Length; i++)
+                {
+                    Series serie = chart1.Series.Add(nombre[i]);
+                    serie.Label = porcentaje[i].ToString();
+                    serie.Points.Add(porcentaje[i]);
+                }
             }
             
             //chart1.Series[0].Points.AddXY(dataGridView1[Column1], dataGridView1[Column9]);
@@ -88,6 +99,17 @@ namespace Ejercicio1
             {
                 chart1.Titles.Clear();
                 chart1.Titles.Add("Libros");
+                chart1.Series.Clear();
+
+                String[] nombre = { "HARRY POTTER", "GOOSEBUMPS", "PERRY MASON" };
+                int[] porcentaje = { 44, 30, 26 };
+
+                for (int i = 0; i < nombre.Length; i++)
+                {
+                    Series serie = chart1.Series.Add(nombre[i]);
+                    serie.Label = porcentaje[i].ToString();
+                    serie.Points.Add(porcentaje[i]);
+                }
             }
         }
 
@@ -97,6 +119,17 @@ namespace Ejercicio1
             {
                 chart1.Titles.Clear();
                 chart1.Titles.Add("Lenguajes de programacion");
+                chart1.Series.Clear();
+
+                String[] nombre = { "PYTHON", "JAVA", "JAVASCRIPT" };
+                int[] porcentaje = { 47, 38, 15 };
+
+                for (int i = 0; i < nombre.Length; i++)
+                {
+                    Series serie = chart1.Series.Add(nombre[i]);
+                    serie.Label = porcentaje[i].ToString();
+                    serie.Points.Add(porcentaje[i]);
+                }
             }
         }
     }
