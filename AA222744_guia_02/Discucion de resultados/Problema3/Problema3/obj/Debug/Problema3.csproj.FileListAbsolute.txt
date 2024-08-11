@@ -1,0 +1,21 @@
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.exe.config
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.exe
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.pdb
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.Form1.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.Properties.Resources.resources
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.exe
+C:\Users\Fernando Anzora\source\repos\Guia02 - Fernando Anzora\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.pdb
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.exe.config
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.exe
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\bin\Debug\Problema3.pdb
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.Form1.resources
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.Properties.Resources.resources
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.exe
+C:\Users\Fernando Anzora\Desktop\AA222744_guia_02\Discucion de resultados\Problema3\Problema3\obj\Debug\Problema3.pdb
