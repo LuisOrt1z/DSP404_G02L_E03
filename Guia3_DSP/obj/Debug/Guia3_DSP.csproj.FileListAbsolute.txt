@@ -1,0 +1,10 @@
+C:\Users\greni\source\repos\Guia3_DSP\bin\Debug\Guia3_DSP.exe.config
+C:\Users\greni\source\repos\Guia3_DSP\bin\Debug\Guia3_DSP.exe
+C:\Users\greni\source\repos\Guia3_DSP\bin\Debug\Guia3_DSP.pdb
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.csproj.AssemblyReference.cache
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.Form1.resources
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.Properties.Resources.resources
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.csproj.GenerateResource.cache
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.csproj.CoreCompileInputs.cache
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.exe
+C:\Users\greni\source\repos\Guia3_DSP\obj\Debug\Guia3_DSP.pdb
