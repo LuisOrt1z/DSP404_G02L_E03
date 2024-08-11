@@ -16,14 +16,17 @@ namespace Ejercicio1
 
         public Dashboard()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+            LoadDataEntretenimiento();
+            LoadDataLibros();
+            LoadDataProgramacion();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
         }
 
-        private void InitializeDataGridViewEntretenimiento()
+        private void LoadDataEntretenimiento()
         {
             // Agregar filas con valores por defecto
             dataGridView1.Rows.Add("GAME OF THRONES", "Juego de tronos", "David Benioff y D. B. Weiss", "Sean Bena, Nikolaj Coster-Waldau, Peter Dinklage, Emilia Clarke, Lena Headey, Ian Glen, Kit Harington, Sophie Turner, Maisie Williams, Issac Hempstead-Wright y Natalie Dormer", "Estados Unidos", 8, 73, 
@@ -32,9 +35,10 @@ namespace Ejercicio1
                 "La serie gira en torno al desastre nuclear de Chernóbil de abril de 1986 y los esfuerzos de limpieza sin precedentes que siguieron. Cuenta con un reparto encabezado por Jared Harris, Stellan Skarsgård y Emily Watson", 34);
             dataGridView1.Rows.Add("THE MARVELOUS MRS. MAISEL", "La maravillosa Señora Maisel ", "Amy Sherman-Palladino", "Rachel Brosnahan, Michael Zegen, Alex Borstein, Tony Shalhoub y Marin Hinkle", "Estados Unidos", 3, 26, 
                 "La serie cuenta la historia de un ama de casa en Nueva York que descubre que tiene una habilidad especial para la comedia en vivo. El primer episodio se estrenó como parte de la temporada de pilotos de primavera de Amazon Studios el 17 de marzo de 2017, recibiendo la aclamación de la crítica.", 26);
+
         }
 
-        private void InitializeDataGridViewLibros()
+        private void LoadDataLibros()
         {
             // Agregar filas con valores por defecto
             dataGridView2.Rows.Add("HARRY POTTER", "J. K. Rowling", "Novela", "Literatura fantastica, literatura juvenil, novela de desarrollo, y literatura infantil y juvenil", "3407 (ENG) y 3665 (ESP)", "Harry Potter, Ron Wealey, Hermione Granger, Ginni Wesley, Nevile Longbottom y Albus Dumbledore", "Lord Voldemort y Mortifagos",
@@ -45,7 +49,7 @@ namespace Ejercicio1
                     "El personaje era un abogado que llegó a aparecer en 80 novelas e historias cortas, la mayoría de las cuales versaban sobre la defensa de un cliente que había sido acusado de asesinato. En general, Perry Mason era capaz de demostrar la inocencia de su cliente mediante la averiguación de la culpabilidad del verdadero asesino, otro personaje de la historia.", 26);
         }
 
-        private void InitializeDataGridViewProgramacion()
+        private void LoadDataProgramacion()
         {
             // Agregar filas con valores por defecto
             dataGridView3.Rows.Add("PYTHON", "Python Software Foundation", ".py, .pyc, .pyd, .pyo, .pyw, .pyz", 1991, "Multiplataforma", "Multiparadigma: orientado a objetos, imperativo, funcional y reflexivo",
@@ -63,27 +67,37 @@ namespace Ejercicio1
 
         private void Dashboard_Load(object sender, EventArgs e)
         {
-            InitializeDataGridViewEntretenimiento();
-            InitializeDataGridViewLibros();
-            InitializeDataGridViewProgramacion();
+            
         }
 
         private void rdbEntretenimiento_CheckedChanged(object sender, EventArgs e)
         {
-            chart1.Titles.Clear();
-            chart1.Titles.Add("Programas de entretenimiento");
+            if (rdbEntretenimiento.Checked)
+            {
+                chart1.Titles.Clear();
+                chart1.Titles.Add("Programas de entretenimiento");
+            }
+            
+            //chart1.Series[0].Points.AddXY(dataGridView1[Column1], dataGridView1[Column9]);
+
         }
 
         private void rdbLibros_CheckedChanged(object sender, EventArgs e)
         {
-            chart1.Titles.Clear();
-            chart1.Titles.Add("Libros");
+            if (rdbLibros.Checked)
+            {
+                chart1.Titles.Clear();
+                chart1.Titles.Add("Libros");
+            }
         }
 
         private void rdbProgramacion_CheckedChanged(object sender, EventArgs e)
         {
-            chart1.Titles.Clear();
-            chart1.Titles.Add("Lenguajes de programacion");
+            if (rdbProgramacion.Checked)
+            {
+                chart1.Titles.Clear();
+                chart1.Titles.Add("Lenguajes de programacion");
+            }
         }
     }
 }
