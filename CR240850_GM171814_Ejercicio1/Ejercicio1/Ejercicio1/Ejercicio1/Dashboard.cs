@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Ejercicio1
 {
@@ -38,7 +39,7 @@ namespace Ejercicio1
             // Agregar filas con valores por defecto
             dataGridView2.Rows.Add("HARRY POTTER", "J. K. Rowling", "Novela", "Literatura fantastica, literatura juvenil, novela de desarrollo, y literatura infantil y juvenil", "3407 (ENG) y 3665 (ESP)", "Harry Potter, Ron Wealey, Hermione Granger, Ginni Wesley, Nevile Longbottom y Albus Dumbledore", "Lord Voldemort y Mortifagos",
                 "La historia comienza con la celebración del mundo mágico. Durante muchos años, había sido aterrorizado por el malvado mago Lord Voldemort. La noche del 31 de octubre, mató a Lily y James Potter. Sin embargo, cuando intenta matar a su hijo de 1 nño, Harry, la maldición asesina Avada Kedavra se vuelve sobre sí mismo. El cuerpo de Voldemort resulta destruido, pero él sobrevive: no está muerto ni vivo. Por su parte, a Harry solo le queda una cicatriz con forma de rayo en la frente que es el único remanente físico de la maldición de Voldemort. Harry es el único sobreviviente de la maldición asesina, y a raíz de la misteriosa derrota de Voldemort, el mundo mágico empieza a llamarlo como «el niño que sobrevivió».", 44);
-            dataGridView2.Rows.Add("GOOSEBUMPS", "Robert Lawrence Stine", "Ciencias ficción, literatura infantil y suspenso", "Suspens, terror y juvenil", "Sin datos", "El protagonista principal de una historia de Pesadillas/Escalofríos, es a menudo situado en una ubicación remota o de alguna manera aislada en algunas situaciones.", "Lord Voldemort y Mortifagos",
+            dataGridView2.Rows.Add("GOOSEBUMPS", "Robert Lawrence Stine", "Ciencias ficción, literatura infantil y suspenso", "Suspens, terror y juvenil", "Sin datos", "El protagonista principal de una historia de Pesadillas/Escalofríos, es a menudo situado en una ubicación remota o de alguna manera aislada en algunas situaciones.", "Sin datos",
                 "La serie consta de un total de 60 libros para España, el último de los cuales (Sangre de monstruo IV) se publicó en 1999, mientras que en Hispanoamérica consta de 45 historias. El nombre se tradujo en España como Pesadillas y en Hispanoamérica como Escalofríos.", 30);
             dataGridView2.Rows.Add("PERRY MASON", "Erle Stanley Gardner", "Novela policiaca", "Sin datos", "Sin datos", "Perry Mason", "Sin datos",
                     "El personaje era un abogado que llegó a aparecer en 80 novelas e historias cortas, la mayoría de las cuales versaban sobre la defensa de un cliente que había sido acusado de asesinato. En general, Perry Mason era capaz de demostrar la inocencia de su cliente mediante la averiguación de la culpabilidad del verdadero asesino, otro personaje de la historia.", 26);
@@ -65,6 +66,24 @@ namespace Ejercicio1
             InitializeDataGridViewEntretenimiento();
             InitializeDataGridViewLibros();
             InitializeDataGridViewProgramacion();
+        }
+
+        private void rdbEntretenimiento_CheckedChanged(object sender, EventArgs e)
+        {
+            chart1.Titles.Clear();
+            chart1.Titles.Add("Programas de entretenimiento");
+        }
+
+        private void rdbLibros_CheckedChanged(object sender, EventArgs e)
+        {
+            chart1.Titles.Clear();
+            chart1.Titles.Add("Libros");
+        }
+
+        private void rdbProgramacion_CheckedChanged(object sender, EventArgs e)
+        {
+            chart1.Titles.Clear();
+            chart1.Titles.Add("Lenguajes de programacion");
         }
     }
 }
