@@ -55,8 +55,8 @@ namespace Ejercicio3
                         NuevaTarea.Completa = com;
                         ListaTareas.Add(NuevaTarea);
                     }
-                
 
+                reader.Close();
                 ActualizarListas(TipoFiltro());
             }
         }
@@ -131,7 +131,7 @@ namespace Ejercicio3
                     lstCompletadas.Items.Add(Lista.Nombre + "| " + Lista.Fecha);
                 }
             }
-            GuardarTareas("ListaTareas.txt");
+            
 
 
         }
@@ -164,8 +164,8 @@ namespace Ejercicio3
             Tarea NuevaTarea = new Tarea();
             NuevaTarea.Datos(nombre, fecha);
             ListaTareas.Add(NuevaTarea);
-            GuardarTareas("ListaTareas.txt");
             ActualizarListas(TipoFiltro());
+            GuardarTareas("ListaTareas.txt");
 
         }
 
@@ -320,6 +320,7 @@ namespace Ejercicio3
             {
                 writer.WriteLine(tarea.Nombre+"|"+tarea.Fecha+"|"+tarea.Completa);
             }
+            writer.Close();
         }
     }
 }

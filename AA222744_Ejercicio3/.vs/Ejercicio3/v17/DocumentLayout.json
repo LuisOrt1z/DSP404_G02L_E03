@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\fernando anzora\\documents\\github\\dsp404_g02l_e03\\aa222744_ejercicio3\\ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|C:\\Users\\Fernando Anzora\\Documents\\GitHub\\DSP404_G02L_E03\\AA222744_Ejercicio3\\ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\fernando anzora\\documents\\github\\dsp404_g02l_e03\\aa222744_ejercicio3\\ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|C:\\Users\\Fernando Anzora\\Documents\\GitHub\\DSP404_G02L_E03\\AA222744_Ejercicio3\\ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CC02EF4-AD6D-48E9-A3C4-5F614E8A0F03}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Ejercicio3\\Form2.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAAwE8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:18:25.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T04:18:25.94Z"
             },
             {
               "$type": "Document",
@@ -50,8 +49,7 @@
               "ToolTip": "C:\\Users\\Fernando Anzora\\Documents\\GitHub\\DSP404_G02L_E03\\AA222744_Ejercicio3\\Ejercicio3\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio3\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T04:17:29.634Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-08-11T04:17:29.634Z"
             },
             {
               "$type": "Document",
@@ -61,7 +59,7 @@
               "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
               "ToolTip": "C:\\Users\\Fernando Anzora\\Documents\\GitHub\\DSP404_G02L_E03\\AA222744_Ejercicio3\\Ejercicio3\\Form1.cs",
               "RelativeToolTip": "Ejercicio3\\Form1.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswDAAAAAxAAAA",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAAAEABAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T04:40:25.014Z",
               "EditorCaption": ""
