@@ -96,7 +96,6 @@
             this.lblnumCuenta.Name = "lblnumCuenta";
             this.lblnumCuenta.Size = new System.Drawing.Size(144, 23);
             this.lblnumCuenta.TabIndex = 3;
-            this.lblnumCuenta.Click += new System.EventHandler(this.label4_Click);
             // 
             // groupBox1
             // 
@@ -132,6 +131,7 @@
             this.rbtSalir.TabStop = true;
             this.rbtSalir.Text = "Salir";
             this.rbtSalir.UseVisualStyleBackColor = true;
+            this.rbtSalir.CheckedChanged += new System.EventHandler(this.rbtSalir_CheckedChanged);
             // 
             // rbtTransferencia
             // 
@@ -144,6 +144,7 @@
             this.rbtTransferencia.TabStop = true;
             this.rbtTransferencia.Text = "Transferencias";
             this.rbtTransferencia.UseVisualStyleBackColor = true;
+            this.rbtTransferencia.CheckedChanged += new System.EventHandler(this.rbtTransferencia_CheckedChanged);
             // 
             // rbtConsignacion
             // 

@@ -28,7 +28,7 @@ namespace ejercicio_2
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             String numeroDeCuenta = txtnumCuenta.Text;
-            //MessageBox.Show("la cuenta no ha sido encontrada", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             if (int.TryParse(numeroDeCuenta, out int result)) {
 
                 for (int i=0; i<cuentas.GetLength(0); i++) {
