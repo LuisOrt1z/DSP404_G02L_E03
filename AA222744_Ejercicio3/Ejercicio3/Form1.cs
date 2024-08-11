@@ -230,6 +230,7 @@ namespace Ejercicio3
                 }
             }
             ActualizarListas(TipoFiltro());
+            GuardarTareas("ListaTareas.txt");
         }
 
         private void btnCompletada_Click(object sender, EventArgs e)
@@ -246,6 +247,7 @@ namespace Ejercicio3
                 }
             }
             ActualizarListas(TipoFiltro());
+            GuardarTareas("ListaTareas.txt");
         }
 
         private void lstCompletadas_SelectedIndexChanged(object sender, EventArgs e)
@@ -273,6 +275,7 @@ namespace Ejercicio3
                 }
             }
             ActualizarListas(TipoFiltro());
+            GuardarTareas("ListaTareas.txt");
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
@@ -311,6 +314,7 @@ namespace Ejercicio3
                     }
                 }
                 ActualizarListas(TipoFiltro());
+                GuardarTareas("ListaTareas.txt");
             }
         }
         private void GuardarTareas(string archivo)
