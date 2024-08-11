@@ -14,8 +14,8 @@ namespace ejercicio_2
     public partial class Form1 : Form
     {
         private string[,] cuentas = new string[3, 2]{
-            { "10", "400" },
-            { "20", "200" },
+            { "1000001", "400" },
+            { "1000002", "200" },
             { "1000004", "500" }
     };
         bool cuentaHallada = false;
@@ -28,7 +28,7 @@ namespace ejercicio_2
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             String numeroDeCuenta = txtnumCuenta.Text;
-            //MessageBox.Show("la cuenta no ha sido encontrada", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
             if (int.TryParse(numeroDeCuenta, out int result)) {
 
                 for (int i=0; i<cuentas.GetLength(0); i++) {
