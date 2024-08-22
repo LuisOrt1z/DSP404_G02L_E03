@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\dell\Desktop\DSP 02L\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
