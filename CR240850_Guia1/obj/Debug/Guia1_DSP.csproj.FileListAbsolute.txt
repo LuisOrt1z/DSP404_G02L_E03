@@ -1,0 +1,12 @@
+C:\Users\greni\source\repos\Guia1_DSP\bin\Debug\Guia1_DSP.exe.config
+C:\Users\greni\source\repos\Guia1_DSP\bin\Debug\Guia1_DSP.exe
+C:\Users\greni\source\repos\Guia1_DSP\bin\Debug\Guia1_DSP.pdb
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.csproj.AssemblyReference.cache
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.Form1.resources
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.Properties.Resources.resources
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.csproj.GenerateResource.cache
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.csproj.CoreCompileInputs.cache
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.exe
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.pdb
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.Form2.resources
+C:\Users\greni\source\repos\Guia1_DSP\obj\Debug\Guia1_DSP.Form3.resources
