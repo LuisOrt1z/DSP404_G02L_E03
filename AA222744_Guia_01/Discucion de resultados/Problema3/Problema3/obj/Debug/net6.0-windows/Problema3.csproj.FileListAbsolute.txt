@@ -1,0 +1,17 @@
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\bin\Debug\net6.0-windows\Problema3.exe
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\bin\Debug\net6.0-windows\Problema3.deps.json
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\bin\Debug\net6.0-windows\Problema3.runtimeconfig.json
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\bin\Debug\net6.0-windows\Problema3.dll
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\bin\Debug\net6.0-windows\Problema3.pdb
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.Form1.resources
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.AssemblyInfoInputs.cache
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.AssemblyInfo.cs
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.dll
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\refint\Problema3.dll
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.pdb
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\Problema3.genruntimeconfig.cache
+C:\Users\Fernando Anzora\source\repos\Guia01 - Fernando Anzora\Problema3\Problema3\obj\Debug\net6.0-windows\ref\Problema3.dll
