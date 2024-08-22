@@ -1,0 +1,12 @@
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe.config
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\bin\Debug\ejemplo1.pdb
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csprojAssemblyReference.cache
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Form1.resources
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Properties.Resources.resources
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csproj.GenerateResource.cache
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.exe
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.pdb
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Form2.resources
+C:\Users\Emerson Gudiel\Desktop\DSP\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Form3.resources
