@@ -1,0 +1,10 @@
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\bin\Debug\ejercicio practico 3.exe.config
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\bin\Debug\ejercicio practico 3.exe
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\bin\Debug\ejercicio practico 3.pdb
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio practico 3.csproj.AssemblyReference.cache
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio_practico_3.Form1.resources
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio_practico_3.Properties.Resources.resources
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio practico 3.csproj.GenerateResource.cache
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio practico 3.csproj.CoreCompileInputs.cache
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio practico 3.exe
+D:\Luis\Desktop\DSP 02L\guia4\Discusion de resultados\ejercicio practico 3\obj\Debug\ejercicio practico 3.pdb

@@ -1,0 +1,10 @@
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\bin\Debug\ejercicio2.exe
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.exe
+D:\Luis\Desktop\DSP 02L\guia4\Procedimientos\ejercicio2\obj\Debug\ejercicio2.pdb
