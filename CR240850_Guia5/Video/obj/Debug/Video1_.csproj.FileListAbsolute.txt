@@ -1,0 +1,6 @@
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\obj\Debug\Video1_.csproj.AssemblyReference.cache
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\obj\Debug\Video1_.csproj.CoreCompileInputs.cache
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\bin\Debug\Video1_.dll
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\bin\Debug\Video1_.pdb
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\obj\Debug\Video1_.dll
+C:\Users\greni\Downloads\CR240850_Guia5\Video1_\obj\Debug\Video1_.pdb
