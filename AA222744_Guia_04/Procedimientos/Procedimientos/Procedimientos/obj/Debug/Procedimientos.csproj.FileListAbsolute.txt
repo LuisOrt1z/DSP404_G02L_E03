@@ -1,0 +1,14 @@
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.AssemblyReference.cache
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Properties.Resources.resources
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.GenerateResource.cache
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.frmGuia04ejerc1.resources
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form2.resources
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form3.resources
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form4.resources
+C:\Users\Fernando Anzora\source\repos\GuiasDSP_GitHub\AA222744_Guia_04\Procedimientos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form5.resources
