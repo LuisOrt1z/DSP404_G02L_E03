@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a "The Temper Trap"</h1>
+    <br />
+    <h3>El mejor servicio al precio más accesible.</h3>
+
+    <br />
+    <br />
+    <h5>Escoge de que manera ingresas a nuestros servicios.</h5>
+
+    <div class="button-container">
+        <button class="btn btn-cliente" onclick="window.location.href='@Url.Action("LoginCliente", "Home")'">Ingreso como cliente</button>
+        <button class="btn btn-empleado" onclick="window.location.href='@Url.Action("LoginEmpleado", "Home")'">Ingreso como empleado</button>
+    </div>
+</div>
+

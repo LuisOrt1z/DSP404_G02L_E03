@@ -1,0 +1,136 @@
+﻿@{
+    ViewData["Title"] = "Registro de Clientes";
+}
+
+<header>
+    <div class="navbar">
+        <a class="Titulo">The Temper Trap</a>
+        <a href="@Url.Action("Index", "Home")">Inicio</a>
+        <a href="@Url.Action("RegistroClientes", "Home")">Clientes</a>
+        <a href="@Url.Action("RegistroEmpleados", "Home")">Empleados</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#contacto">Contacto</a>
+    </div>
+</header>
+
+<body>
+    <div class="content">
+
+        <h2>Manejo de Clientes</h2>
+        <br />
+
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Buscar...">
+            <button class="search-button">Buscar</button>
+            <button class="add-button">Agregar</button>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th class="column-id">ID</th>
+                    <th>Nombre</th>
+                    <th>Clave</th>
+                    <th>Teléfono</th>
+                    <th>Email</th>
+                    <th>Dirección</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Luis Cruz</td>
+                    <td>123456</td>
+                    <td>7083 8956</td>
+                    <td>luiscruz991@gmail.com</td>
+                    <td>San Salvador</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+<style>
+    .navbar {
+        background-color: #333;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 1000;
+        margin: 0;
+        padding: 0;
+    }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+    .Titulo {
+        color: white;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    .content {
+        margin-top: 30px;
+        padding: 5px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f4f4f4;
+    }
+
+    .column-id {
+        width: 5%;
+    }
+
+    .search-container {
+        margin-bottom: 20px;
+    }
+
+    .search-input {
+        padding: 8px;
+        width: 300px;
+    }
+
+    .search-button, .add-button {
+        padding: 8px 12px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+        .search-button:hover, .add-button:hover {
+            background-color: #45a049;
+        }
+
+    .add-button {
+        margin-left: 10px;
+    }
+
+</style>

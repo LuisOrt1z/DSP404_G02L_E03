@@ -1,0 +1,30 @@
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\appsettings.json
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.staticwebassets.runtime.json
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.exe
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.deps.json
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.runtimeconfig.json
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.dll
+C:\Users\greni\Downloads\The Temper Trap\bin\Debug\net8.0\The Temper Trap.pdb
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.AssemblyInfoInputs.cache
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.AssemblyInfo.cs
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.csproj.CoreCompileInputs.cache
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.RazorAssemblyInfo.cache
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.RazorAssemblyInfo.cs
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets\msbuild.The Temper Trap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets\msbuild.build.The Temper Trap.props
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The Temper Trap.props
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The Temper Trap.props
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\scopedcss\bundle\The Temper Trap.styles.css
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\scopedcss\projectbundle\The Temper Trap.bundle.scp.css
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.dll
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\refint\The Temper Trap.dll
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.pdb
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\The Temper Trap.genruntimeconfig.cache
+C:\Users\greni\Downloads\The Temper Trap\obj\Debug\net8.0\ref\The Temper Trap.dll
