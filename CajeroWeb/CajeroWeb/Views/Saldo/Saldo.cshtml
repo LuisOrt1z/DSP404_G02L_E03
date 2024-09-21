@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Saldo";
+}
+
+<article class="middle">
+    <h2>Bienvenido</h2>
+    Innovando las transacciones en línea, ponemos a su disposición el cajero ATM online
+    donde podrá realizar sus pagos y transferencias en línea de una forma rápida y fácil
+    siempre con la calidad y la confianza que nos caracterizan. Realice sus transacciones
+    desde la comodidad de su hogar las 24 horas del día los 7 días de la semana.
+    <div class="credenciales">
+        <div class="bloque">
+            <div class="clear"></div>
+            <label class="etiqueta">Tarjeta #:</label>
+            <label class="control" style="color: white">@ViewBag.sNumeroTarjeta</label>
+        </div>
+        <div class="clear"></div>
+        <div class="bloque">
+            <label class="etiqueta">Saldo:</label>
+            <label class="control" style="color: white">@ViewBag.sSaldo</label>
+        </div>
+        <div class="clear"></div>
+        <div class="clear"></div>
+    </div>
+
+</article>
+<nav class="right">
+    <ul>
+        <li>
+            @Html.ActionLink("Transferencias nacionales", "someaction", "somecontroller",
+           new { id = "123" }, null)
+        </li>
+        <li>
+            @Html.ActionLink("Transferencias internacionales", "someaction",
+           "somecontroller", new { id = "123" }, null)
+        </li>
+        <li>
+            @Html.ActionLink("Pagos de Servicios", "someaction", "somecontroller", new
+            {
+                id
+           = "123"
+            }, null)
+        </li>
+        <li>
+            @Html.ActionLink("Verificar saldos", "someaction", "somecontroller", new
+            {
+                id =
+           "123"
+            }, null)
+        </li>
+    </ul>
+</nav>
