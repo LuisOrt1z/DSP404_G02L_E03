@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\views\\home\\registroclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:views\\home\\registroclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\views\\home\\registroempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:views\\home\\registroempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\views\\home\\loginempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:views\\home\\loginempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|d:\\luis\\desktop\\desafio 2 con logins completos y conexion a db\\the temper trap\\views\\home\\logincliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61169A9C-2F3D-4D5C-984F-B57DC544343C}|The Temper Trap.csproj|solutionrelative:views\\home\\logincliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroEmpleados.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\RegistroEmpleados.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\RegistroEmpleados.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\RegistroEmpleados.cshtml",
+              "RelativeToolTip": "Views\\Home\\RegistroEmpleados.cshtml",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T15:35:29.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginEmpleado.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\LoginEmpleado.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LoginEmpleado.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\LoginEmpleado.cshtml",
+              "RelativeToolTip": "Views\\Home\\LoginEmpleado.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:56:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroClientes.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\RegistroClientes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\RegistroClientes.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\RegistroClientes.cshtml",
+              "RelativeToolTip": "Views\\Home\\RegistroClientes.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:39:23.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginCliente.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\LoginCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LoginCliente.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Views\\Home\\LoginCliente.cshtml",
+              "RelativeToolTip": "Views\\Home\\LoginCliente.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T06:55:50.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwLwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:01:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Luis\\Desktop\\desafio 2 con logins completos y conexion a db\\The Temper Trap\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T04:00:33.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
