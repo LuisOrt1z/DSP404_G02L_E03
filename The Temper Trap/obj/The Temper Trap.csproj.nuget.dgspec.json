@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\greni\\Downloads\\The Temper Trap\\The Temper Trap.csproj": {}
+    "D:\\Luis\\Desktop\\DSP 02L\\desafio 2 con Inicio y carrito de compras\\The Temper Trap\\The Temper Trap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\greni\\Downloads\\The Temper Trap\\The Temper Trap.csproj": {
+    "D:\\Luis\\Desktop\\DSP 02L\\desafio 2 con Inicio y carrito de compras\\The Temper Trap\\The Temper Trap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\greni\\Downloads\\The Temper Trap\\The Temper Trap.csproj",
+        "projectUniqueName": "D:\\Luis\\Desktop\\DSP 02L\\desafio 2 con Inicio y carrito de compras\\The Temper Trap\\The Temper Trap.csproj",
         "projectName": "The Temper Trap",
-        "projectPath": "C:\\Users\\greni\\Downloads\\The Temper Trap\\The Temper Trap.csproj",
-        "packagesPath": "C:\\Users\\greni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\greni\\Downloads\\The Temper Trap\\obj\\",
+        "projectPath": "D:\\Luis\\Desktop\\DSP 02L\\desafio 2 con Inicio y carrito de compras\\The Temper Trap\\The Temper Trap.csproj",
+        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+        "outputPath": "D:\\Luis\\Desktop\\DSP 02L\\desafio 2 con Inicio y carrito de compras\\The Temper Trap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\greni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -44,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

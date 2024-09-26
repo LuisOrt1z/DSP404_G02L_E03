@@ -1,22 +1,23 @@
-﻿@{
+﻿@model The_Temper_Trap.Models.Empleado
+
+@{
     ViewData["Title"] = "Registro de Empleados";
 }
 
 <header>
     <div class="navbar">
-            <a class="Titulo">The Temper Trap</a>
-            <a href="@Url.Action("Index", "Home")">Inicio</a>
-            <a href="@Url.Action("RegistroClientes", "Home")">Clientes</a>
-            <a href="@Url.Action("RegistroEmpleados", "Home")">Empleados</a>
-            <a href="#nosotros">Nosotros</a>
-            <a href="#contacto">Contacto</a>
-        </div>
+        <a class="Titulo">The Temper Trap</a>
+        <a href="@Url.Action("Index", "Home")">Inicio</a>
+        <a href="@Url.Action("RegistroClientes", "Home")">Clientes</a>
+        <a href="@Url.Action("RegistroEmpleados", "Home")">Empleados</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#contacto">Contacto</a>
+    </div>
 </header>
 
 <body>
     <div class="content">
-
-        <h2>Manejo de Empleados</h2>
+        <h2>Registro de Empleados</h2>
         <br />
 
         <div class="search-container">
@@ -30,21 +31,18 @@
                 <tr>
                     <th class="column-id">ID</th>
                     <th>Nombre</th>
-                    <th>Clave</th>
+                    <th>Puesto</th>
                     <th>Teléfono</th>
                     <th>Email</th>
-                    <th>Dirección</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>Luis Cruz</td>
-                    <td>123456</td>
-                    <td>7083 8956</td>
-                    <td>luiscruz991@gmail.com</td>
-                    <td>San Salvador</td>
-                </tr>
+            <td>1</td>
+            <td>Luis Cruz</td>
+            <td>123456</td>
+            <td>7083 8956</td>
+            <td>luiscruz991@gmail.com</td>
+            <td>San Salvador</td>
             </tbody>
         </table>
     </div>
@@ -83,7 +81,7 @@
         padding: 0;
         font-family: Arial, sans-serif;
     }
-        
+
     .content {
         margin-top: 30px;
         padding: 5px;
@@ -132,5 +130,5 @@
     .add-button {
         margin-left: 10px;
     }
-
 </style>
+    

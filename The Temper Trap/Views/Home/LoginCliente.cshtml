@@ -5,17 +5,16 @@
 <div class="text-center">
     <h1 class="display-4">Hola Estimado Cliente</h1>
     <br />
-    <h3>Selecciona la opcion que necesites.</h3>
+    <h3>Selecciona la opción que necesites.</h3>
     <br />
 
     <body>
-
         <!-- Botones de Login y Registro -->
         <div class="button-container">
-            <form>
+            <form method="get" asp-controller="Home" asp-action="RegistroClientes">
                 <button class="btn" type="submit">Registro</button>
             </form>
-            <form method="post">
+            <form method="get" asp-controller="Home" asp-action="LoginCliente">
                 <button class="btn" type="submit">Loguearse</button>
             </form>
         </div>
@@ -23,7 +22,7 @@
         <!-- Formularios de Login y Registro -->
         <div class="form-container">
             <!-- Formulario de Registro -->
-            <form action="/RegistroCliente" method="POST">
+            <form asp-controller="Home" asp-action="RegistroCliente" method="POST">
                 <h3>Registro Cliente</h3>
                 <label for="registro-nombre">Nombre:</label>
                 <input type="text" id="registro-nombre" name="nombre" required>
@@ -44,7 +43,7 @@
             </form>
 
             <!-- Formulario de Login -->
-            <form action="/LoginCliente" method="POST">
+            <form asp-controller="Home" asp-action="LoginCliente" method="post">
                 <h3>Login Cliente</h3>
                 <label for="login-nombre">Nombre:</label>
                 <input type="text" id="login-nombre" name="nombre" required>
@@ -55,9 +54,7 @@
                 <button type="submit">Ingresar</button>
             </form>
         </div>
-
     </body>
-
 
     <style>
         .button-container {
@@ -79,8 +76,6 @@
             .btn:hover {
                 background-color: #ddd;
             }
-
-        /* Configuracion de Formularios */
         .form-container {
             display: flex;
             justify-content: space-around;

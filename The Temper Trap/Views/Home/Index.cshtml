@@ -1,8 +1,121 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+
+    string usuario = TempData["usuario"]?.ToString();
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de platos @ViewBag.Usuario</title>
+    <link rel="stylesheet" href="~/css/Index.css">
+</head>
+<body>
+    <nav class="Nav">
+        <h2>Menú de Platos </h2>
+        <a href="#" class="link">Platos</a><!--Links de nav-->
+        <a href="#" class="link">Historial</a>
+        <button class="carrito" onclick="Carrito()">Carrito (<span id="contador">0</span>)</button>
+    </nav><br />
+    <div class="menu">
+        <div class="separador"><h1>Platos principales</h1></div><br /><!-- Platos principales -->
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Pupusa_FrijolQueso.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Pupusa de frijol con queso</h5>
+                <p class="card-text precio">$1.50</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Pupusa_Queso.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Pupusa de queso</h5>
+                <p class="card-text precio">$2.00</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/YucaChicharron.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Yuca frita con chicharrón</h5>
+                <p class="card-text precio">$3.50</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Tamal_Elote.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Tamales de elote</h5>
+                <p class="card-text precio">$1.50</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Sopa_Pata.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Sopa de pata</h5>
+                <p class="card-text precio">$4.25</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Sopa_GallinaIndia.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Sopa de gallina india</h5>
+                <p class="card-text precio">$5.25</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;"><br />
+            <img src="~/Img/Platillos/Principales/Empanada_Platano.jpg" class="card-img-top">
+            <div class="card-body menu-item">
+                <h5 class="card-title Titulo">Empanadas de plátano</h5>
+                <p class="card-text precio">$1.25</p>
+                <center><button class="botonC" id="botonC"> Añadir al carrito</button></center>
+            </div>
+        </div>
+        
+
+    </div>
+    
+    <div class="cart-container" id="cartContainer">
+        <div class="cart-items-wrapper"><ul id="cartItems"></ul></div>
+        <div class="total">Total: $<span id="cartTotal">0.00</span></div><br>
+        <div class="actions">
+            <button class="clear-cart" onclick="Vaciar()">Vaciar Carrito</button>
+            
+            <button class="checkout" onclick="CrearPago()">Pagar</button>
+        </div>
+    </div>
+
+    <div id="modal-background" class="hidden"></div>
+    <div id="payment-form-container" class="hidden"><!--Formulario de confirmacion de pago-->
+        <form id="payment-form" onsubmit="return confirmarPago(event);">
+            <center><h3><div class="Monto">Total: $<span id="TotalPago">0.00</span></div></h3></center>
+            <div class="cart-items-wrapper"><ul id="OrdenLista"></ul></div>
+
+            <label for="name">Nombre del cliente: <strong>@usuario</strong></label><br>
+
+            <label for="address">Dirección de envío:</label>
+            <input type="text" id="address" name="address" required>
+
+            <label for="card-number">Número de tarjeta:</label>
+            <input type="text" id="card-number" name="card-number" maxlength="16" required>
+
+            <label for="cvv">CVV:</label>
+            <input type="text" id="cvv" name="cvv" maxlength="3" required>
+
+            <label for="vencimiento">Fecha de vencimiento:</label>
+            <input type="text" id="vencimiento" name="vencimiento" required>
+
+            <button type="submit">Confirmar Pago</button><br>
+            <button type="button" onclick="CerrarPago()">Cancelar</button>
+        </form>
+    </div>
+    <script src="~/js/Carrito.js"></script>
+</body>
+</html>

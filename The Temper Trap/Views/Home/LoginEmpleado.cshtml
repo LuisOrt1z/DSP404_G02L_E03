@@ -1,21 +1,21 @@
 ﻿@{
-    ViewData["Title"] = "Login Empleado";
+    ViewData["Title"] = "Registro Empleado";
 }
 
 <div class="text-center">
     <h1 class="display-4">Hola Estimado Empleado</h1>
     <br />
-    <h3>Selecciona la opcion que necesites.</h3>
+    <h3>Selecciona la opción que necesites.</h3>
     <br />
 
     <body>
 
         <!-- Botones de Login y Registro -->
         <div class="button-container">
-            <form>
+            <form method="get" asp-controller="Home" asp-action="RegistroEmpleados">
                 <button class="btn" type="submit">Registro</button>
             </form>
-            <form method="post">
+            <form method="get" asp-controller="Home" asp-action="LoginEmpleado">
                 <button class="btn" type="submit">Loguearse</button>
             </form>
         </div>
@@ -23,13 +23,16 @@
         <!-- Formularios de Login y Registro -->
         <div class="form-container">
             <!-- Formulario de Registro -->
-            <form action="/RegistroEmpleado" method="POST">
+            <form asp-controller="Home" asp-action="RegistroEmpleado" method="POST">
                 <h3>Registro Empleado</h3>
                 <label for="registro-nombre">Nombre:</label>
                 <input type="text" id="registro-nombre" name="nombre" required>
 
-                <label for="registro-password">Contraseña:</label>
-                <input type="password" id="registro-password" name="password" required>
+                <label for="registro-contrasena">Contraseña:</label>
+                <input type="password" id="registro-contrasena" name="contrasena" required>
+
+                <label for="registro-puesto">Puesto:</label>
+                <input type="text" id="registro-puesto" name="puesto" required>
 
                 <label for="registro-telefono">Teléfono:</label>
                 <input type="tel" id="registro-telefono" name="telefono" required>
@@ -37,15 +40,12 @@
                 <label for="registro-email">Email:</label>
                 <input type="email" id="registro-email" name="email" required>
 
-                <label for="registro-direccion">Dirección:</label>
-                <input type="text" id="registro-direccion" name="direccion" required>
-
                 <button type="submit">Registrar</button>
             </form>
 
             <!-- Formulario de Login -->
-            <form action="/LoginEmpleado" method="POST">
-                <h3>Login Cliente</h3>
+            <form asp-controller="Home" asp-action="LoginEmpleado" method="post">
+                <h3>Login Empleado</h3>
                 <label for="login-nombre">Nombre:</label>
                 <input type="text" id="login-nombre" name="nombre" required>
 
@@ -57,7 +57,6 @@
         </div>
 
     </body>
-
 
     <style>
         .button-container {
@@ -80,7 +79,6 @@
                 background-color: #ddd;
             }
 
-        /* Configuracion de Formularios */
         .form-container {
             display: flex;
             justify-content: space-around;
@@ -123,3 +121,4 @@
                     background-color: #555;
                 }
     </style>
+</div>
