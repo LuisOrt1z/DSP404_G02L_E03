@@ -4,15 +4,24 @@ GO
 USE TurnOverDB;
 GO
 
-CREATE TABLE Usuarios (
-    id_usuario INT IDENTITY(1,1) PRIMARY KEY,
+CREATE TABLE Clientes (
+    id_cliente INT IDENTITY(1,1) PRIMARY KEY, 
     nombre VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL UNIQUE,
-    contrasena VARCHAR(100) NOT NULL,
-    fecha_registro DATETIME DEFAULT GETDATE()
+    contrasena NVARCHAR(256) NOT NULL,
+    telefono VARCHAR(20),
+    email VARCHAR(100) UNIQUE NOT NULL,
+    direccion VARCHAR(255)
 );
 GO
 
+CREATE TABLE Empleados (
+    id_empleado INT IDENTITY(1,1) PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    contrasena NVARCHAR(256) NOT NULL,
+    telefono VARCHAR(20),
+    email VARCHAR(100) UNIQUE NOT NULL
+);
+GO
 
 CREATE TABLE Conciertos (
     id_concierto INT IDENTITY(1,1) PRIMARY KEY,
@@ -33,7 +42,7 @@ GO
 
 CREATE TABLE Entradas (
     id_entrada INT IDENTITY(1,1) PRIMARY KEY,
-    id_usuario INT FOREIGN KEY REFERENCES Usuarios(id_usuario) ON DELETE CASCADE, 
+    id_cliente INT FOREIGN KEY REFERENCES Clientes(id_cliente) ON DELETE CASCADE, 
     id_concierto INT FOREIGN KEY REFERENCES Conciertos(id_concierto) ON DELETE NO ACTION,  
     id_seccion INT FOREIGN KEY REFERENCES Secciones(id_seccion) ON DELETE NO ACTION, 
     cantidad INT NOT NULL,
@@ -42,10 +51,9 @@ CREATE TABLE Entradas (
 );
 GO
 
-
 CREATE TABLE HistorialCompras (
     id_historial INT IDENTITY(1,1) PRIMARY KEY,
-    id_usuario INT FOREIGN KEY REFERENCES Usuarios(id_usuario) ON DELETE CASCADE, 
+    id_cliente INT FOREIGN KEY REFERENCES Clientes(id_cliente) ON DELETE CASCADE, 
     id_entrada INT FOREIGN KEY REFERENCES Entradas(id_entrada) ON DELETE NO ACTION, 
     fecha_historial DATETIME DEFAULT GETDATE()
 );
