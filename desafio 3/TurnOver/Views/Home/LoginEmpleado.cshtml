@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Login Empleado";
+}
+<link rel="stylesheet" href="~/css/LoginEmpleado.css" />
+<div class="text-center">
+    <h1 class="display-4">Ingreso como Empleado</h1>
+
+    <h5>Por favor, inicia sesión o regístrate desplazandote hacia abajo.</h5>
+
+    <!-- Formulario de inicio de sesión -->
+    <form method="post" asp-action="LoginEmpleado" asp-controller="Home">
+        <div class="form-group">
+            <label for="nombre">Nombre</label>
+            <input type="text" class="form-control" id="nombre" name="nombre" required />
+        </div>
+        <div class="form-group">
+            <label for="contrasena">Contraseña</label>
+            <input type="password" class="form-control" id="contrasena" name="contrasena" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+    </form>
+
+    <hr />
+
+    <h5>¿No tienes una cuenta? Regístrate aquí:</h5>
+
+    <!-- Formulario de registro -->
+    <form method="post" asp-action="RegistroEmpleado" asp-controller="Home">
+        <div class="form-group">
+            <label for="registro-nombre">Nombre</label>
+            <input type="text" class="form-control" id="registro-nombre" name="nombre" required />
+        </div>
+        <div class="form-group">
+            <label for="registro-email">Email</label>
+            <input type="email" class="form-control" id="registro-email" name="email" required />
+        </div>
+        <div class="form-group">
+            <label for="registro-contrasena">Contraseña</label>
+            <input type="password" class="form-control" id="registro-contrasena" name="contrasena" required />
+        </div>
+        <div class="form-group">
+            <label for="registro-telefono">Teléfono</label>
+            <input type="text" class="form-control" id="registro-telefono" name="telefono" />
+        </div>
+        <button type="submit" class="btn btn-success">Registrarse</button>
+    </form>
+</div>
