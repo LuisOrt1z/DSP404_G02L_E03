@@ -1,8 +1,21 @@
 ﻿@{
-    ViewData["Title"] = "Panel Empleado";
+    ViewData["Title"] = "Panel del Empleado";
 }
+<link rel="stylesheet" href="~/css/PanelEmpleado.css" />
+<div class="panel-empleado">
+    <h2 class="titulo">Panel del Empleado</h2>
 
-<div class="text-center">
-    <h1 class="display-4">AQUI VA EL DASHBOARD DEL EMPLEADO</h1>
-
+    <div class="gestion-conciertos">
+        <h3 class="subtitulo">Gestión de Conciertos</h3>
+        <ul class="lista-conciertos">
+            <li class="item-concierto">
+                <a asp-controller="Conciertos" asp-action="ListaConciertos" class="enlace">Ver todos los conciertos</a>
+            </li>
+            <li class="item-concierto">
+                <a asp-controller="Conciertos" asp-action="CrearConcierto" class="enlace">Crear nuevo concierto</a>
+            </li>
+        </ul>
+    </div>
 </div>
+
+<link rel="stylesheet" href="~/css/PanelEmpleado.css" />

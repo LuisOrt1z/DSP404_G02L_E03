@@ -18,12 +18,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Luis\Desktop\DSP 02L\desafio 3\TurnOver
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/BorrarConcierto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb3JyYXJDb25jaWVydG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/ClienteEmpleado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGllbnRlRW1wbGVhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/CrearConcierto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhckNvbmNpZXJ0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/EditarConcierto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXJDb25jaWVydG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/ListaConciertos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YUNvbmNpZXJ0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Luis/Desktop/DSP 02L/desafio 3/TurnOver/Views/Home/LoginCliente.cshtml]

@@ -1,0 +1,41 @@
+﻿@model List<TurnOver.Models.Concierto>
+
+@{
+    ViewData["Title"] = "Lista de Conciertos";
+}
+<link rel="stylesheet" href="~/css/ListaConciertos.css" />
+<h2>Lista de Conciertos</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No hay conciertos listados.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Fecha</th>
+                <th>Ubicación</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var concierto in Model)
+            {
+                <tr>
+                    <td>@concierto.id_concierto</td>
+                    <td>@concierto.nombre_concierto</td>
+                    <td>@concierto.fecha_concierto.ToShortDateString()</td>
+                    <td>@concierto.ubicacion</td>
+                    <td>
+                        <a asp-action="EditarConcierto" asp-route-id="@concierto.id_concierto" class="btn btn-warning">Editar</a>
+                        <a asp-action="BorrarConcierto" asp-route-id="@concierto.id_concierto" class="btn btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

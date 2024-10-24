@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\TurnOver.bundle.scp.css"
     },
     {
+      "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\BorrarConcierto.css",
+      "PackagePath": "staticwebassets\\css\\BorrarConcierto.css"
+    },
+    {
       "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\ClienteEmpleado.css",
       "PackagePath": "staticwebassets\\css\\ClienteEmpleado.css"
+    },
+    {
+      "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\CrearConcierto.css",
+      "PackagePath": "staticwebassets\\css\\CrearConcierto.css"
+    },
+    {
+      "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\EditarConcierto.css",
+      "PackagePath": "staticwebassets\\css\\EditarConcierto.css"
+    },
+    {
+      "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\ListaConciertos.css",
+      "PackagePath": "staticwebassets\\css\\ListaConciertos.css"
     },
     {
       "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginCliente.css",
@@ -15,6 +31,10 @@
     {
       "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginEmpleado.css",
       "PackagePath": "staticwebassets\\css\\LoginEmpleado.css"
+    },
+    {
+      "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\PanelEmpleado.css",
+      "PackagePath": "staticwebassets\\css\\PanelEmpleado.css"
     },
     {
       "Id": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\site.css",

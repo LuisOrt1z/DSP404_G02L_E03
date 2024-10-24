@@ -7,28 +7,24 @@
       "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\clienteempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\clienteempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\clienteempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\clienteempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\borrarconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\borrarconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\logincliente.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\logincliente.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\crearconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\crearconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\loginempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\loginempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\crearconcierto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\crearconcierto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\logincliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\logincliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\loginempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\loginempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\panelempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\panelempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteEmpleado.css",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\ClienteEmpleado.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\ClienteEmpleado.css",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\ClienteEmpleado.css",
-              "RelativeToolTip": "wwwroot\\css\\ClienteEmpleado.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-23T08:36:47.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginEmpleado.css",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginEmpleado.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\LoginEmpleado.css",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginEmpleado.css",
-              "RelativeToolTip": "wwwroot\\css\\LoginEmpleado.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-23T08:18:26.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginCliente.css",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginCliente.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\LoginCliente.css",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\LoginCliente.css",
-              "RelativeToolTip": "wwwroot\\css\\LoginCliente.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-23T08:16:02.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginCliente.cshtml",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\LoginCliente.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\LoginCliente.cshtml",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\LoginCliente.cshtml",
-              "RelativeToolTip": "Views\\Home\\LoginCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T07:44:34.158Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,36 +48,70 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwI4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:00:09.495Z",
+              "WhenOpened": "2024-10-24T07:37:53.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginEmpleado.cshtml",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\LoginEmpleado.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\LoginEmpleado.cshtml",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\LoginEmpleado.cshtml",
-              "RelativeToolTip": "Views\\Home\\LoginEmpleado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ConciertosController.cs",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\ConciertosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConciertosController.cs",
+              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\ConciertosController.cs",
+              "RelativeToolTip": "Controllers\\ConciertosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:56:48.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearConcierto.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\CrearConcierto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CrearConcierto.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\CrearConcierto.cshtml",
+              "RelativeToolTip": "Views\\Home\\CrearConcierto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T07:41:21.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T06:43:16.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClienteEmpleado.cshtml",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\ClienteEmpleado.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ClienteEmpleado.cshtml",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\ClienteEmpleado.cshtml",
-              "RelativeToolTip": "Views\\Home\\ClienteEmpleado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "BorrarConcierto.cshtml",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\BorrarConcierto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BorrarConcierto.cshtml",
+              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\BorrarConcierto.cshtml",
+              "RelativeToolTip": "Views\\Home\\BorrarConcierto.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T06:21:55.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T06:24:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearConcierto.css",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\CrearConcierto.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\CrearConcierto.css",
+              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\CrearConcierto.css",
+              "RelativeToolTip": "wwwroot\\css\\CrearConcierto.css",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T06:42:20.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PanelEmpleado.css",
+              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\PanelEmpleado.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\PanelEmpleado.css",
+              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\PanelEmpleado.css",
+              "RelativeToolTip": "wwwroot\\css\\PanelEmpleado.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T06:25:10.987Z"
             }
           ]
         }

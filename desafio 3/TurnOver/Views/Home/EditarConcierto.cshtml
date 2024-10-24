@@ -1,0 +1,28 @@
+﻿@model TurnOver.Models.Concierto
+
+@{
+    ViewData["Title"] = "Editar Concierto";
+}
+<link rel="stylesheet" href="~/css/EditarConcierto.css" />
+<h2>Editar Concierto</h2>
+
+<form method="post" asp-action="EditarConcierto" asp-controller="Conciertos">
+    <input type="hidden" name="id_concierto" value="@Model.id_concierto" />
+
+    <div class="form-group">
+        <label for="nombre_concierto">Nombre del Concierto</label>
+        <input type="text" class="form-control" id="nombre_concierto" name="nombre_concierto" value="@Model.nombre_concierto" required />
+    </div>
+
+    <div class="form-group">
+        <label for="fecha_concierto">Fecha del Concierto</label>
+        <input type="date" class="form-control" id="fecha_concierto" name="fecha_concierto" value="@Model.fecha_concierto.ToString("yyyy-MM-dd")" required />
+    </div>
+
+    <div class="form-group">
+        <label for="ubicacion">Ubicación</label>
+        <input type="text" class="form-control" id="ubicacion" name="ubicacion" value="@Model.ubicacion" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Actualizar Concierto</button>
+</form>
