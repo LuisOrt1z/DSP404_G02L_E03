@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\TurnOver.csproj": {}
+    "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\TurnOver.csproj": {}
   },
   "projects": {
-    "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\TurnOver.csproj": {
+    "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\TurnOver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\TurnOver.csproj",
+        "projectUniqueName": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\TurnOver.csproj",
         "projectName": "TurnOver",
-        "projectPath": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\TurnOver.csproj",
-        "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\obj\\",
+        "projectPath": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\TurnOver.csproj",
+        "packagesPath": "C:\\Users\\Emerson Gudiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emerson Gudiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

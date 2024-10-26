@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\",
+  "WorkspaceRootPath": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\emerson gudiel\\desktop\\desafio 3\\dsp404_g02l_e03-desafio_03\\desafio 3\\turnover\\views\\home\\panelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\panelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\borrarconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\borrarconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\views\\home\\crearconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\crearconcierto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\crearconcierto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\crearconcierto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|d:\\luis\\desktop\\dsp 02l\\desafio 3\\turnover\\wwwroot\\css\\panelempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:wwwroot\\css\\panelempleado.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\emerson gudiel\\desktop\\desafio 3\\dsp404_g02l_e03-desafio_03\\desafio 3\\turnover\\views\\home\\panelempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\panelempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -43,75 +31,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAmwI4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:37:53.716Z",
+              "Title": "PanelCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PanelCliente.cshtml",
+              "ToolTip": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
+              "RelativeToolTip": "Views\\Home\\PanelCliente.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T03:48:21.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConciertosController.cs",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\ConciertosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ConciertosController.cs",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Controllers\\ConciertosController.cs",
-              "RelativeToolTip": "Controllers\\ConciertosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:56:48.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CrearConcierto.cshtml",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\CrearConcierto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\CrearConcierto.cshtml",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\CrearConcierto.cshtml",
-              "RelativeToolTip": "Views\\Home\\CrearConcierto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PanelEmpleado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelEmpleado.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PanelEmpleado.cshtml",
+              "ToolTip": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelEmpleado.cshtml",
+              "RelativeToolTip": "Views\\Home\\PanelEmpleado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T06:43:16.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BorrarConcierto.cshtml",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\BorrarConcierto.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\BorrarConcierto.cshtml",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\Views\\Home\\BorrarConcierto.cshtml",
-              "RelativeToolTip": "Views\\Home\\BorrarConcierto.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T06:24:04.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CrearConcierto.css",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\CrearConcierto.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\CrearConcierto.css",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\CrearConcierto.css",
-              "RelativeToolTip": "wwwroot\\css\\CrearConcierto.css",
-              "ViewState": "AgIAACsAAAAAAAAAAAAmwD0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T06:42:20.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PanelEmpleado.css",
-              "DocumentMoniker": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\PanelEmpleado.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\PanelEmpleado.css",
-              "ToolTip": "D:\\Luis\\Desktop\\DSP 02L\\desafio 3\\TurnOver\\wwwroot\\css\\PanelEmpleado.css",
-              "RelativeToolTip": "wwwroot\\css\\PanelEmpleado.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T06:25:10.987Z"
+              "WhenOpened": "2024-10-26T03:47:58.026Z",
+              "EditorCaption": ""
             }
           ]
         }

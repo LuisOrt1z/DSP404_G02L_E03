@@ -1,8 +1,126 @@
 ﻿@{
-    ViewData["Title"] = "Panel CLiente";
+    ViewData["Title"] = "Panel del Cliente";
 }
+<link rel="stylesheet" href="~/css/PanelCliente.css" />
+<div class="dashboard-container">
+    <section class="dashboard-resumen">
+        <h2>Compra de Tickets</h2>
+    </section>
 
-<div class="text-center">
-    <h1 class="display-4">AQUI VA EL DASHBOARD DEL CLIENTE</h1>
-  
+    <!-- Lista de los Conciertos -->
+    <section class="Lista-Concierto">
+        <h2>Conciertos</h2>
+        <button onclick="Historial">Historial</button>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Fecha</th>
+                    <th>Ubicación</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Metalica</td>
+                    <td>23/11/2024</td>
+                    <td>Estadio Magico Gonzalez</td>
+                    <td><button onclick="Comprar">Comprar</button></td>
+                </tr>
+                </tbody>
+        </table>
+    </section>
+
+    <!-- Historial de las compras -->
+    <section class="menu-historial">
+        <h2>Historial de Entradas</h2>
+    </section>
+
+    <section class="compras-tickets">
+        <h2>Compras de Tickets</h2>
+    </section>
 </div>
+<style>    
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+    }
+
+    
+    .dashboard-container {
+        width: 90%;
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+    }
+
+   
+    section {
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-size: 1.8em;
+        color: #333;
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 10px;
+    }
+
+ 
+    button {
+        background-color: #007bff;
+        color: #ffffff;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1em;
+        transition: background-color 0.3s ease;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+        .table th, .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #dddddd;
+        }
+
+        .table th {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+        }
+
+        .table tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    
+    .menu-historial, .compras-tickets {
+        padding: 15px;
+        background-color: #f7f7f7;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+        .menu-historial h2, .compras-tickets h2 {
+            font-size: 1.6em;
+            color: #333;
+            margin: 0;
+        }
+</style>

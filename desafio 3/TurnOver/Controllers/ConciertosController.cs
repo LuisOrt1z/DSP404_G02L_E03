@@ -25,7 +25,7 @@ namespace TurnOver.Controllers
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 conn.Open();
-                string query = "SELECT * FROM Conciertos"; // Asegúrate de que 'Conciertos' sea el nombre correcto de la tabla.
+                string query = "SELECT * FROM Conciertos"; 
 
                 using (SqlCommand cmd = new SqlCommand(query, conn))
                 {
@@ -35,16 +35,16 @@ namespace TurnOver.Controllers
                         {
                             conciertos.Add(new Concierto
                             {
-                                id_concierto = reader.GetInt32(0), // Ajusta el índice según tu tabla
-                                nombre_concierto = reader.GetString(1), // Ajusta el índice según tu tabla
-                                fecha_concierto = reader.GetDateTime(2), // Ajusta el índice según tu tabla
-                                ubicacion = reader.GetString(3) // Ajusta el índice según tu tabla
+                                id_concierto = reader.GetInt32(0), 
+                                nombre_concierto = reader.GetString(1), 
+                                fecha_concierto = reader.GetDateTime(2), 
+                                ubicacion = reader.GetString(3) 
                             });
                         }
                     }
                 }
             }
-            // Pasar la lista de conciertos (vacía si no hay resultados)
+            
             return View("~/Views/Home/ListaConciertos.cshtml", conciertos);
         }
 
@@ -76,11 +76,11 @@ namespace TurnOver.Controllers
                     }
                 }
 
-                // Almacenar mensaje en TempData
+               
                 TempData["SuccessMessage"] = "Concierto guardado con éxito.";
             }
 
-            // Retornar la vista con el modelo para mantener el formulario
+            
             return View("~/Views/Home/CrearConcierto.cshtml", concierto);
         }
 
@@ -145,7 +145,7 @@ namespace TurnOver.Controllers
             }
 
             TempData["SuccessMessage"] = "Concierto actualizado correctamente.";
-            return RedirectToAction("ListaConciertos", "Conciertos"); // Cambia "ListaConciertos" por el nombre de tu acción para listar conciertos
+            return RedirectToAction("ListaConciertos", "Conciertos"); 
         }
 
 
