@@ -33,6 +33,7 @@ namespace TurnOver.Controllers
         public IActionResult HistorialCompras()
         {
             List<Historial> historial = new List<Historial>();
+            List<Entradas> TipoEntrada = new List<Entradas>();
             string connectionString = _configuration.GetConnectionString("DefaultConnectionString");
 
             using (SqlConnection conexion = new SqlConnection(connectionString))
@@ -57,6 +58,63 @@ namespace TurnOver.Controllers
                     }
                 }
             }
+            using (SqlConnection conexion = new SqlConnection(connectionString))
+            {
+                conexion.Open();
+                string query = "SELECT * FROM Entradas";
+                using (SqlCommand cmd = new SqlCommand(query, conexion))
+                {
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            Entradas NuevaEntrada = new Entradas
+                            {
+                                id_entrada = Convert.ToInt32(reader["id_entrada"]),
+                                id_cliente = Convert.ToInt32(reader["id_cliente"]),
+                                TipoBoleto = Convert.ToString(reader["id_seccion"]),
+                                id_concierto = Convert.ToInt32(reader["id_concierto"]),
+                                CantBoletos = Convert.ToInt32(reader["cantidad"]),
+                                total = Convert.ToDouble(reader["total"])
+
+                            };
+
+                            TipoEntrada.Add(NuevaEntrada);
+                        }
+                    }
+                }
+            }
+            TipoEntrada = TipoEntrada.Where(r => r.id_cliente == Convert.ToInt32(TempData["IDusuario"])).ToList();
+            historial = historial.Where(r => r.id_cliente == Convert.ToInt32(TempData["IDusuario"])).ToList();
+
+            for (int i = 0; i < historial.Count; i++)
+            {
+                for (int j = 0; j < TipoEntrada.Count; j++)
+                {
+                    if (historial[i].id_entrada == TipoEntrada[j].id_entrada)
+                    {
+                        switch (TipoEntrada[j].TipoBoleto)
+                        {
+                            case "1":
+                                historial[i].TipoBoleto = "General";
+                                break;
+                            case "2":
+                                historial[i].TipoBoleto = "Plateado";
+                                break;
+                            case "3":
+                                historial[i].TipoBoleto = "VIP";
+                                break;
+                        }
+                        historial[i].CantBoletos = TipoEntrada[j].CantBoletos;
+                        historial[i].total = TipoEntrada[j].total;
+                        historial[i].NombreConcierto = Convert.ToString(TipoEntrada[j].id_concierto);
+
+                    }
+                }
+
+
+            }
+
 
             return View(historial);
         }

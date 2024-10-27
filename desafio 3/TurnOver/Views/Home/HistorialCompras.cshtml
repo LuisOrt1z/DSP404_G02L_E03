@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Lista de Compras";
+    String UsuarioActual = Convert.ToString(TempData["usuario"]);
 }
 
 <link rel="stylesheet" href="~/css/Historial.css" />
@@ -16,9 +17,10 @@ else
     <table class="table">
         <thead>
             <tr>
-                <th>ID</th>
                 <th>Cliente</th>
-                <th>Entrada</th>
+                <th>Tipo Boleto</th>
+                <th>Cantidad</th>
+                <th>Total</th>
                 <th>Fecha y hora de la compra</th>
             </tr>
         </thead>
@@ -26,9 +28,10 @@ else
             @foreach (var historial in Model)
             {
                 <tr>
-                    <td>@historial.id_historial</td>
-                    <td>@historial.id_cliente</td>
-                    <td>@historial.id_entrada</td>
+                    <td>@UsuarioActual</td>
+                    <td>@historial.TipoBoleto</td>
+                    <td>@historial.CantBoletos</td>
+                    <td>$@historial.total</td>
                     <td>@historial.fecha_historial.ToString("dd/MM/yyyy HH:mm")</td>
                 </tr>
             }

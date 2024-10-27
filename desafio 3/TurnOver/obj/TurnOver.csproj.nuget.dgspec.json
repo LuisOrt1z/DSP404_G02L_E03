@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\greni\\OneDrive\\Documentos\\desafio 3\\TurnOver\\TurnOver.csproj": {}
+    "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\Historial\\TurnOver\\TurnOver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\greni\\OneDrive\\Documentos\\desafio 3\\TurnOver\\TurnOver.csproj": {
+    "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\Historial\\TurnOver\\TurnOver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\greni\\OneDrive\\Documentos\\desafio 3\\TurnOver\\TurnOver.csproj",
+        "projectUniqueName": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\Historial\\TurnOver\\TurnOver.csproj",
         "projectName": "TurnOver",
-        "projectPath": "C:\\Users\\greni\\OneDrive\\Documentos\\desafio 3\\TurnOver\\TurnOver.csproj",
-        "packagesPath": "C:\\Users\\greni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\greni\\OneDrive\\Documentos\\desafio 3\\TurnOver\\obj\\",
+        "projectPath": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\Historial\\TurnOver\\TurnOver.csproj",
+        "packagesPath": "C:\\Users\\Fernando Anzora\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\Historial\\TurnOver\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\greni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fernando Anzora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -73,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

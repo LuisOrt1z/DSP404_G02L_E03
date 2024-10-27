@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TurnOver
 build_property.RootNamespace = TurnOver
-build_property.ProjectDir = C:\Users\greni\OneDrive\Documentos\desafio 3\TurnOver\
+build_property.ProjectDir = C:\Users\Fernando Anzora\source\repos\Desafio3 - DSP\Historial\TurnOver\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\greni\OneDrive\Documentos\desafio 3\TurnOver
+build_property.MSBuildProjectDirectory = C:\Users\Fernando Anzora\source\repos\Desafio3 - DSP\Historial\TurnOver
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/BorrarConcierto.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/BorrarConcierto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb3JyYXJDb25jaWVydG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/ClienteEmpleado.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/ClienteEmpleado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDbGllbnRlRW1wbGVhZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/CrearConcierto.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/CrearConcierto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhckNvbmNpZXJ0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/EditarConcierto.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/EditarConcierto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXJDb25jaWVydG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/HistorialCompras.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/HistorialCompras.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3JpYWxDb21wcmFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/Index.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/ListaConciertos.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/ListaConciertos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YUNvbmNpZXJ0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/LoginCliente.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/LoginCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkNsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/LoginEmpleado.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/LoginEmpleado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkVtcGxlYWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/PanelCliente.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/PanelCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW5lbENsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/PanelEmpleado.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/PanelEmpleado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYW5lbEVtcGxlYWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Home/Privacy.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Shared/Error.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/_ViewImports.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/_ViewStart.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/greni/OneDrive/Documentos/desafio 3/TurnOver/Views/Shared/_Layout.cshtml]
+[C:/Users/Fernando Anzora/source/repos/Desafio3 - DSP/Historial/TurnOver/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-484mpimygg
