@@ -36,8 +36,8 @@ namespace TurnOver.Controllers
                             conciertos.Add(new Concierto
                             {
                                 id_concierto = reader.GetInt32(0), 
-                                nombre_concierto = reader.GetString(1), 
-                                fecha_concierto = reader.GetDateTime(2), 
+                                nombre_concierto = reader.GetString(1),
+                                fecha_concierto = reader.GetDateTime(2),
                                 ubicacion = reader.GetString(3) 
                             });
                         }

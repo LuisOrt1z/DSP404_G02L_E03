@@ -7,7 +7,7 @@
 <h2>Editar Concierto</h2>
 
 <form method="post" asp-action="EditarConcierto" asp-controller="Conciertos">
-    <input type="hidden" name="id_concierto" value="@Model.id_concierto" />
+    <input type="hidden" name="id_concierto" id="ID_Concierto" value="@Model.id_concierto" />
 
     <div class="form-group">
         <label for="nombre_concierto">Nombre del Concierto</label>
@@ -23,6 +23,55 @@
         <label for="ubicacion">Ubicación</label>
         <input type="text" class="form-control" id="ubicacion" name="ubicacion" value="@Model.ubicacion" required />
     </div>
+    <div class="mb-3">
+        <label for="Sesiones" style="text-align:center; margin:auto;">Sessiones:</label>
+        <div class="row g-2">
+            <div class="col-md"><label for="General">General</label></div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="CantidadGeneral" step="1" value="5" required>
+                    <label for="CantidadGeneral">Cantidad</label>
+                </div>
+            </div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="PrecioGeneral" step="0.01" value="5" required>
+                    <label for="PrecioGeneral">Precio</label>
+                </div>
+            </div>
+        </div><br />
+        <div class="row g-2">
+            <div class="col-md"><label for="Plateado">Plateado</label></div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="CantidadPlateado" step="1" value="0">
+                    <label for="CantidadPlateado">Cantidad</label>
+                </div>
+            </div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="PrecioPlateado" step="0.01" value="0">
+                    <label for="PrecioPlateado">Precio</label>
+                </div>
+            </div>
+        </div><br />
+        <div class="row g-2">
+            <div class="col-md"><label for="VIP">VIP</label></div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="CantidadVIP" step="1" value="0">
+                    <label for="CantidadVIP">Cantidad</label>
+                </div>
+            </div>
+            <div class="col-md">
+                <div class="form-floating">
+                    <input type="number" class="form-control" id="PrecioVIP" step="0.01" value="0">
+                    <label for="PrecioVIP">Precio</label>
+                </div>
+            </div>
+        </div>
+    </div>
 
-    <button type="submit" class="btn btn-primary">Actualizar Concierto</button>
+    <button type="submit" class="btn btn-primary" id="btnActualizar">Actualizar Concierto</button><br /><br /><br /><br />
 </form>
+<script src="~/js/Datos.js"></script>

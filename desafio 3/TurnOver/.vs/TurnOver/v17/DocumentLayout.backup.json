@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\",
+  "WorkspaceRootPath": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\New\\TurnOver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\emerson gudiel\\desktop\\desafio 3\\dsp404_g02l_e03-desafio_03\\desafio 3\\turnover\\views\\home\\panelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\fernando anzora\\source\\repos\\desafio3 - dsp\\new\\turnover\\views\\home\\panelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\panelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\emerson gudiel\\desktop\\desafio 3\\dsp404_g02l_e03-desafio_03\\desafio 3\\turnover\\views\\home\\panelempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:views\\home\\panelempleado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|c:\\users\\fernando anzora\\source\\repos\\desafio3 - dsp\\new\\turnover\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA85851-3267-42B0-92FD-2751E4CC8260}|TurnOver.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -32,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PanelCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\New\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\PanelCliente.cshtml",
-              "ToolTip": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
+              "ToolTip": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\New\\TurnOver\\Views\\Home\\PanelCliente.cshtml",
               "RelativeToolTip": "Views\\Home\\PanelCliente.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-26T03:48:21.339Z",
               "EditorCaption": ""
@@ -44,15 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PanelEmpleado.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelEmpleado.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\PanelEmpleado.cshtml",
-              "ToolTip": "C:\\Users\\Emerson Gudiel\\Desktop\\Desafio 3\\DSP404_G02L_E03-desafio_03\\desafio 3\\TurnOver\\Views\\Home\\PanelEmpleado.cshtml",
-              "RelativeToolTip": "Views\\Home\\PanelEmpleado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T03:47:58.026Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\New\\TurnOver\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fernando Anzora\\source\\repos\\Desafio3 - DSP\\New\\TurnOver\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:25:21.064Z"
             }
           ]
         }

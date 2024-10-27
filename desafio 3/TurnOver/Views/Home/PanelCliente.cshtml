@@ -1,45 +1,179 @@
-﻿@{
+﻿@model IEnumerable<TurnOver.Models.Concierto>
+@{
     ViewData["Title"] = "Panel del Cliente";
+    int Resultado = Convert.ToInt32(TempData["resultados"]);
+    
 }
-<link rel="stylesheet" href="~/css/PanelCliente.css" />
+<head>
+    <script src="https://kit.fontawesome.com/18d266cd8e.js" crossorigin="anonymous"></script>
+</head>
 <div class="dashboard-container">
-    <section class="dashboard-resumen">
-        <h2>Compra de Tickets</h2>
-    </section>
-
     <!-- Lista de los Conciertos -->
     <section class="Lista-Concierto">
-        <h2>Conciertos</h2>
-        <button onclick="Historial">Historial</button>
-        <table class="table">
-            <thead>
+        @if (TempData["MSM"] != null)
+        {
+            <h2 class="text-center mb-4">@TempData["MSM"]</h2>
+        }
+
+        <h2 class="text-center mb-4">Conciertos</h2>
+        @{
+            if (Resultado > 0)
+            {
+                <p class="text-center mb-4">@Resultado resultados encontrados</p>
+            }
+            else
+            {
+                <p class="text-center mb-4">Lista de conciertos</p>
+            }
+        }
+        <!-- Botones -->
+        <div class="d-flex justify-content-between mb-3">
+            <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#filterModal">
+                Filtrar Elementos
+            </button>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalHistorial">
+                Historial de compras
+            </button>
+        </div>
+        <table class="table table-bordered">
+            <thead class="table-dark">
                 <tr>
-                    <th>Nombre</th>
+                    <th>Nombre concierto</th>
                     <th>Fecha</th>
-                    <th>Ubicación</th>
-                    <th>Acciones</th>
+                    <th>Lugar</th>
+                    <th>Compra de boletos</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr>
-                    <td>Metalica</td>
-                    <td>23/11/2024</td>
-                    <td>Estadio Magico Gonzalez</td>
-                    <td><button onclick="Comprar">Comprar</button></td>
-                </tr>
-                </tbody>
+            <tbody id="listaConciertos">
+                @if (Resultado > 0)
+                {
+                    foreach (var item in Model)
+                    {
+                        string fecha = item.fecha_concierto.ToString("yyyy-MM-dd");
+                        <tr>
+                            <td>@item.nombre_concierto</td>
+                            <td>@item.fecha_concierto.ToShortDateString()</td>
+                            <td>@item.ubicacion</td>
+                            <td>
+                                <center>
+                                    <button class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#modalComprar" onclick="Comprar(@item.id_concierto, '@item.nombre_concierto', '@fecha', '@item.ubicacion')">Comprar</button>
+                                </center>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr><td colspan="4" style="text-align:center; font-size:30px">Sin resultados . . .</td></tr>
+                }
+            </tbody>
         </table>
     </section>
-
-    <!-- Historial de las compras -->
-    <section class="menu-historial">
-        <h2>Historial de Entradas</h2>
-    </section>
-
-    <section class="compras-tickets">
-        <h2>Compras de Tickets</h2>
-    </section>
+    <!-- Modal para Comprar  -->
+    <div class="modal fade" id="modalComprar" tabindex="-1" aria-labelledby="modalComprarLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalCrearConciertoLabel">Compra de tickets</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="ComprarBoleto" asp-action="ComprarBoleto" asp-controller="Home">
+                        <div class="input-group mb-3" style="display: none">
+                            <span class="input-group-text"><i class="fa-solid fa-location-dot"></i></span>
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="IDconcierto" name="IDconcierto">
+                                <label for="IDconcierto">ID</label>
+                            </div>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fa-solid fa-ticket"></i></span>
+                            <fieldset disabled style="width: 85%">
+                            <div class="form-floating">
+                                    <input type="text" class="form-control" id="NombreConcierto"  required>
+                                    <label for="NombreConcierto">Nombre del concierto</label>
+                            </div>
+                            </fieldset>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fa-solid fa-calendar-days"></i></span>
+                            <fieldset disabled style="width: 85%">
+                            <div class="form-floating">
+                                    <input type="date" class="form-control" id="FechaConcierto"  required>
+                                <label for="FechaConcierto">Fecha</label>
+                            </div>
+                            </fieldset>
+                        </div>
+                        <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fa-solid fa-location-dot"></i></span>
+                            <fieldset disabled style="width: 85%">
+                            <div class="form-floating">
+                                    <input type="text" class="form-control" id="LugarConcierto" required>
+                                <label for="LugarConcierto">Lugar</label>
+                            </div>
+                            </fieldset>
+                        </div>
+                        <h5 class="text-center">Selecciona el tipo de sesión:</h5><br />
+                        <div class="input-group mb-3">
+                            <div class="form-group" style="width: 100%" id="ContenedorSesiones">
+                                <select id="tipoSesion" name="tipoSesion" class="form-control" onchange="CambiarSesion()">
+                                    <option value="General">Sesión General</option>
+                                    <option value="Plateado">Sesión Plateado</option>
+                                    <option value="VIP">Sesión VIP</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="input-group mb-3" id="LabelsPrecio">
+                            <span class="input-group-text" style="width:35%" id="NombreSesion">General ($5.00)</span>
+                            <div class="form-floating" style="width:65%">
+                                <input type="number" class="form-control" id="CantidadSesion" name="CantidadSesion" step="1" onchange="NumBoletos()" value="1" required>
+                                <label for="CantidadSesion">tickets disponibles <span id="Disponibles">5</span></label>
+                            </div>
+                        </div>
+                        <div class="input-group mb-3" id="btnTicket">
+                            <div class="row g-2">
+                                <h5 class="text-center">Total: $<span id="Total">5.00</span> </h5><br />
+                                <input type="text" class="form-control" id="tTotal" name="tTotal">
+                                <center><button type="submit" class="btn btn-success" id="btnActualizar">Comprar tickets</button></center>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal de Filtrar -->
+    <div class="modal fade" id="filterModal" tabindex="-1" aria-labelledby="filterModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="filterModalLabel">Filtrar Conciertos</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="FiltrarConciertos" asp-action="FiltrarConciertos" asp-controller="Home">
+                        <div class="mb-3">
+                            <label for="BusquedaNombre" class="form-label">Buscar por nombre</label>
+                            <input type="text" name="BusquedaNombre" class="form-control" placeholder="Ingrese el nombre del concierto" />
+                        </div>
+                        <div class="mb-3">
+                            <label for="BusquedaFecha" class="form-label">Buscar por fecha</label>
+                            <input type="date" name="BusquedaFecha" class="form-control" />
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            <button type="submit" class="btn btn-primary">Aplicar Filtros</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
 </div>
+<footer>
+    <script src="~/js/site.js"></script>
+</footer>
 <style>    
     body {
         font-family: 'Arial', sans-serif;
