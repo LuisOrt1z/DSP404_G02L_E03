@@ -1,0 +1,37 @@
+﻿@model List<TurnOver.Models.Historial>
+
+@{
+    ViewData["Title"] = "Lista de Compras";
+}
+
+<link rel="stylesheet" href="~/css/Historial.css" />
+<h2>Historial de Compras</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No hay compras registradas.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Cliente</th>
+                <th>Entrada</th>
+                <th>Fecha y hora de la compra</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var historial in Model)
+            {
+                <tr>
+                    <td>@historial.id_historial</td>
+                    <td>@historial.id_cliente</td>
+                    <td>@historial.id_entrada</td>
+                    <td>@historial.fecha_historial.ToString("dd/MM/yyyy HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Diagnostics;
+using System.Reflection.PortableExecutable;
 using TurnOver.Models;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -26,6 +27,38 @@ namespace TurnOver.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult HistorialCompras()
+        {
+            List<Historial> historial = new List<Historial>();
+            string connectionString = _configuration.GetConnectionString("DefaultConnectionString");
+
+            using (SqlConnection conexion = new SqlConnection(connectionString))
+            {
+                conexion.Open();
+                string query = "SELECT * FROM HistorialCompras";
+
+                using (SqlCommand cmd = new SqlCommand(query, conexion))
+                {
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            historial.Add(new Historial
+                            {
+                                id_historial = reader.GetInt32(0),
+                                id_cliente = reader.GetInt32(1),
+                                id_entrada = reader.GetInt32(2),
+                                fecha_historial = reader.GetDateTime(3)
+                            });
+                        }
+                    }
+                }
+            }
+
+            return View(historial);
         }
 
         public IActionResult ClienteEmpleado() { 
@@ -310,6 +343,7 @@ namespace TurnOver.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
