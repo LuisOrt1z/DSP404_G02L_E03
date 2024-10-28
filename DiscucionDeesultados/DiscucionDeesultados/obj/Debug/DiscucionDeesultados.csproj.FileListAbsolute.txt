@@ -1,0 +1,12 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\bin\Debug\DiscucionDeesultados.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\bin\Debug\DiscucionDeesultados.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\bin\Debug\DiscucionDeesultados.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.Form2.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\DiscucionDeesultados\DiscucionDeesultados\obj\Debug\DiscucionDeesultados.Form3.resources
