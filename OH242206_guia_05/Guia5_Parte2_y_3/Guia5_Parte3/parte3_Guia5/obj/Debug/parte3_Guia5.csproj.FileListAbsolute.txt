@@ -1,0 +1,30 @@
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe.config
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.pdb
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csprojAssemblyReference.cache
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.frmRegistroEmpleados.resources
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.Properties.Resources.resources
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.GenerateResource.cache
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.CoreCompileInputs.cache
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.exe
+C:\Users\Yamin Castro\Music\Guia\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.pdb
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe.config
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.pdb
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.AssemblyReference.cache
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.frmRegistroEmpleados.resources
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.Properties.Resources.resources
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.GenerateResource.cache
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.CoreCompileInputs.cache
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.exe
+C:\Users\Flaco\Desktop\Guia5_DSP\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.pdb
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe.config
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.exe
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\bin\Debug\parte3_Guia5.pdb
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.AssemblyReference.cache
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.frmRegistroEmpleados.resources
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.Properties.Resources.resources
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.GenerateResource.cache
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.csproj.CoreCompileInputs.cache
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.exe
+C:\Users\Flaco\Desktop\Guia05 DSP404\Perte 2 y 3\parte3_Guia5\parte3_Guia5\obj\Debug\parte3_Guia5.pdb
