@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\Parte1\Parte1\bin\Debug\Parte1.dll
+C:\Users\usuario\Desktop\Parte1\Parte1\bin\Debug\Parte1.pdb
+C:\Users\usuario\Desktop\Parte1\Parte1\obj\Debug\Parte1.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Parte1\Parte1\obj\Debug\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Parte1\Parte1\obj\Debug\Parte1.dll
+C:\Users\usuario\Desktop\Parte1\Parte1\obj\Debug\Parte1.pdb
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\bin\Debug\Parte1.dll
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\bin\Debug\Parte1.pdb
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\obj\Debug\Parte1.csproj.AssemblyReference.cache
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\obj\Debug\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\obj\Debug\Parte1.dll
+C:\Users\bluci\OneDrive\Escritorio\DSP\Laboratorio\Guia05\Parte1\Parte1\obj\Debug\Parte1.pdb
