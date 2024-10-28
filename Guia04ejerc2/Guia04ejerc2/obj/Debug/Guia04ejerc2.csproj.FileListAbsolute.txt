@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\bin\Debug\Guia04ejerc2.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\bin\Debug\Guia04ejerc2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\bin\Debug\Guia04ejerc2.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\DSP\Laboratorio\Guia4\Guia04ejerc2\Guia04ejerc2\obj\Debug\Guia04ejerc2.pdb
