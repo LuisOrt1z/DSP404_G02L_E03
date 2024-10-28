@@ -59,16 +59,6 @@ CREATE TABLE HistorialCompras (
 );
 GO
 
-CREATE TRIGGER trg_EntradasHistorial
-ON Entradas
-AFTER INSERT
-AS
-BEGIN
-    INSERT INTO HistorialCompras (id_cliente, id_entrada, fecha_historial)
-    SELECT id_cliente, id_entrada, GETDATE()
-    FROM INSERTED;
-END;
-
 INSERT INTO Conciertos (nombre_concierto, fecha_concierto, ubicacion)
 VALUES ('COLDPLAY', '2024-11-23', 'Estadio Magico Gonzalez');
 
